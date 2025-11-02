@@ -1,5 +1,3 @@
-# imss-plataformas-dashboard
-Dashboard Prueba Piloto Plataformas Digitales
 # 📊 Dashboard IMSS – Plataformas Digitales
 
 Visualización interactiva de los datos del **IMSS** sobre personas beneficiadas y trabajadoras de plataformas digitales (TDP), elaborada con **Dash** y **Plotly**.
