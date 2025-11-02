@@ -68,13 +68,13 @@ fig2 = px.bar(
     agg, y="entidad_display", x=["PTPD_Aseg","PTPD_Puestos"],
     orientation="h", barmode="group",
     color_discrete_map={"PTPD_Aseg": GUINDA, "PTPD_Puestos": DORADO},
-    title="Personas beneficiadas vs Personas trabajadoras de plataformas (TDP)"
+    title="Personas Beneficiadas vs Personas Trabajadoras de Plataformas (TDP)"
 )
 fig2.update_traces(
     hovertemplate="<b>%{y}</b><br>%{fullData.name}: %{x:,.0f}<extra></extra>"
 )
 # Renombrar leyenda
-fig2.for_each_trace(lambda t: t.update(name="Personas beneficiadas" if "Aseg" in t.name else "Personas trabajadoras de plataformas (TDP)"))
+fig2.for_each_trace(lambda t: t.update(name="Personas Beneficiadas" if "Aseg" in t.name else "Personas Trabajadoras de Plataformas (TDP)"))
 fig2.update_layout(
     plot_bgcolor="white",
     font=dict(family="Montserrat", color="#333"),
@@ -94,7 +94,7 @@ age_nat["PTPD_Aseg_H_neg"] = -men_nat_abs
 
 fig3 = px.bar(
     age_nat, x="PTPD_Aseg_H_neg", y="Rango_edad_2", orientation="h",
-    color_discrete_sequence=[VERDE], title="Pirámide poblacional nacional"
+    color_discrete_sequence=[VERDE], title="Pirámide Poblacional Personas Beneficiadas. Nacional"
 )
 fig3.add_bar(
     x=age_nat["PTPD_Aseg_M"], y=age_nat["Rango_edad_2"],
@@ -129,7 +129,7 @@ if not df_cdmx.empty:
 
     fig4 = px.bar(
         age_cdmx, x="PTPD_Aseg_H_neg", y="Rango_edad_2", orientation="h",
-        color_discrete_sequence=[VERDE], title="Pirámide poblacional CDMX"
+        color_discrete_sequence=[VERDE], title="Pirámide poblacional Personas Beneficiadas CDMX"
     )
     fig4.add_bar(
         x=age_cdmx["PTPD_Aseg_M"], y=age_cdmx["Rango_edad_2"],
@@ -166,11 +166,11 @@ totales = pd.DataFrame({
         df["PTPD_Puestos_H"].sum(), df["PTPD_Puestos_M"].sum(),
         df["independientes_H"].sum(), df["independientes_M"].sum()
     ],
-    "Color": [VERDE, GUINDA, DORADO, DORADO, VERDE, GUINDA]
+    "Color": [VERDE, GUINDA, VERDE, GUINDA, VERDE, GUINDA]
 })
 fig5 = px.bar(
     totales, x="Etiqueta", y="Valor", color="Etiqueta",
-    color_discrete_sequence=[VERDE, GUINDA, DORADO, DORADO, VERDE, GUINDA],
+    color_discrete_sequence=[VERDE, GUINDA, VERDE, GUINDA, VERDE, GUINDA],
     title="Estructura de género (Beneficiadas, TDP e Independientes)"
 )
 fig5.update_traces(
@@ -212,6 +212,7 @@ app.layout = html.Div(style={
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=10000, debug=False)
+
 
 
 
