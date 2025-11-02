@@ -1,4 +1,4 @@
-# 📊 Dashboard IMSS – Plataformas Digitales
+# Dashboard IMSS – Plataformas Digitales
 
 Visualización interactiva de los datos del **IMSS** sobre personas beneficiadas y trabajadoras de plataformas digitales (TDP), elaborada con **Dash** y **Plotly**.
 
@@ -21,3 +21,4 @@ Este dashboard está implementado con [Render.com](https://render.com) y se actu
 
 ---
 *Secretaría del Trabajo y Fomento al Empleo (CDMX) – Observatorio de Plataformas Digitales*
+
