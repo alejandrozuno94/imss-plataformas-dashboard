@@ -1,0 +1,430 @@
+﻿CVE_DIVISION,División,entidad_nacimiento,fecha,Rango_edad_2,SalarioFem,SalarioMasc,PTPD_Aseg,PTPD_Aseg_H,PTPD_Aseg_M,PTPD_Aseg_NB,PTPD_Puestos,PTPD_Puestos_H,PTPD_Puestos_M,PTPD_Puestos_NB
+7,Transportes y comunicaciones,Aguascalientes,202509,75 años y más,,392.292222222,440,407,33,0,9,9,0,0
+7,Transportes y comunicaciones,Aguascalientes,202509,Entre 15 y 20 años,292.54,325.03,377,340,37,0,6,5,1,0
+7,Transportes y comunicaciones,Aguascalientes,202509,Entre 20 y 25 años,318.62,350.337671233,2576,2337,239,0,76,73,3,0
+7,Transportes y comunicaciones,Aguascalientes,202509,Entre 25 y 30 años,288.886666667,358.318114754,2868,2594,274,0,125,122,3,0
+7,Transportes y comunicaciones,Aguascalientes,202509,Entre 30 y 35 años,350.316666667,368.634300518,2549,2295,254,0,196,193,3,0
+7,Transportes y comunicaciones,Aguascalientes,202509,Entre 35 y 40 años,382.438,368.248671329,1957,1740,217,0,148,143,5,0
+7,Transportes y comunicaciones,Aguascalientes,202509,Entre 40 y 45 años,360.48,378.871782946,1227,1101,126,0,140,129,11,0
+7,Transportes y comunicaciones,Aguascalientes,202509,Entre 45 y 50 años,306.214444444,387.988411215,818,726,92,0,116,107,9,0
+7,Transportes y comunicaciones,Aguascalientes,202509,Entre 50 y 55 años,344.77,385.088202247,542,490,52,0,90,89,1,0
+7,Transportes y comunicaciones,Aguascalientes,202509,Entre 55 y 60 años,278.8,379.153,368,340,28,0,71,70,1,0
+7,Transportes y comunicaciones,Aguascalientes,202509,Entre 60 y 65 años,341.555,383.438478261,226,218,8,0,48,46,2,0
+7,Transportes y comunicaciones,Aguascalientes,202509,Entre 65 y 70 años,,378.9675,67,64,3,0,8,8,0,0
+7,Transportes y comunicaciones,Aguascalientes,202509,Entre 70 y 75 años,,348.39,22,22,0,0,6,6,0,0
+7,Transportes y comunicaciones,Baja California,202509,75 años y más,,400.186285714,760,686,74,0,35,35,0,0
+7,Transportes y comunicaciones,Baja California,202509,Entre 15 y 20 años,,400.720769231,758,688,70,0,39,39,0,0
+7,Transportes y comunicaciones,Baja California,202509,Entre 20 y 25 años,392.214736842,397.292358079,5757,5221,536,0,477,458,19,0
+7,Transportes y comunicaciones,Baja California,202509,Entre 25 y 30 años,407.2672,388.789508449,6165,5432,733,0,676,651,25,0
+7,Transportes y comunicaciones,Baja California,202509,Entre 30 y 35 años,370.625348837,408.843541667,5098,4368,730,0,619,576,43,0
+7,Transportes y comunicaciones,Baja California,202509,Entre 35 y 40 años,416.423636364,414.830209644,3345,2868,477,0,510,477,33,0
+7,Transportes y comunicaciones,Baja California,202509,Entre 40 y 45 años,405.604545455,409.633711340,2299,1940,359,0,432,388,44,0
+7,Transportes y comunicaciones,Baja California,202509,Entre 45 y 50 años,402.403947368,414.125087108,1535,1292,243,0,325,287,38,0
+7,Transportes y comunicaciones,Baja California,202509,Entre 50 y 55 años,406.336875,407.504382470,1082,934,148,0,267,251,16,0
+7,Transportes y comunicaciones,Baja California,202509,Entre 55 y 60 años,360.863333333,397.852920354,497,428,69,0,125,113,12,0
+7,Transportes y comunicaciones,Baja California,202509,Entre 60 y 65 años,402.396666667,363.276086957,219,195,24,0,49,46,3,0
+7,Transportes y comunicaciones,Baja California,202509,Entre 65 y 70 años,322.385,411.151428571,71,68,3,0,16,14,2,0
+7,Transportes y comunicaciones,Baja California,202509,Entre 70 y 75 años,,381.59,18,17,1,0,1,1,0,0
+7,Transportes y comunicaciones,Baja California Sur,202509,75 años y más,,419.614285714,238,223,15,0,7,7,0,0
+7,Transportes y comunicaciones,Baja California Sur,202509,Entre 15 y 20 años,,347.892727273,148,134,14,0,11,11,0,0
+7,Transportes y comunicaciones,Baja California Sur,202509,Entre 20 y 25 años,529,360.126,1182,1063,119,0,66,65,1,0
+7,Transportes y comunicaciones,Baja California Sur,202509,Entre 25 y 30 años,372,375.788117647,1167,994,173,0,93,85,8,0
+7,Transportes y comunicaciones,Baja California Sur,202509,Entre 30 y 35 años,325.9375,374.208588235,995,830,165,0,93,85,8,0
+7,Transportes y comunicaciones,Baja California Sur,202509,Entre 35 y 40 años,359.472727273,371.356060606,769,626,143,0,110,99,11,0
+7,Transportes y comunicaciones,Baja California Sur,202509,Entre 40 y 45 años,373.425,379.166949153,518,429,89,0,63,59,4,0
+7,Transportes y comunicaciones,Baja California Sur,202509,Entre 45 y 50 años,307.151666667,397.77,357,287,70,0,62,56,6,0
+7,Transportes y comunicaciones,Baja California Sur,202509,Entre 50 y 55 años,383.255,403.031818182,186,164,22,0,35,33,2,0
+7,Transportes y comunicaciones,Baja California Sur,202509,Entre 55 y 60 años,334.043333333,383.788125,96,85,11,0,19,16,3,0
+7,Transportes y comunicaciones,Baja California Sur,202509,Entre 60 y 65 años,278.8,406.05375,60,52,8,0,9,8,1,0
+7,Transportes y comunicaciones,Baja California Sur,202509,Entre 65 y 70 años,,305.055,13,13,0,0,2,2,0,0
+7,Transportes y comunicaciones,Baja California Sur,202509,Entre 70 y 75 años,,,1,1,0,0,0,0,0,0
+7,Transportes y comunicaciones,Campeche,202509,75 años y más,,341.4375,320,297,23,0,4,4,0,0
+7,Transportes y comunicaciones,Campeche,202509,Entre 15 y 20 años,,,125,117,8,0,0,0,0,0
+7,Transportes y comunicaciones,Campeche,202509,Entre 20 y 25 años,338.94,368.189487179,1754,1585,169,0,40,39,1,0
+7,Transportes y comunicaciones,Campeche,202509,Entre 25 y 30 años,463.41,385.2049,2501,2216,285,0,104,100,4,0
+7,Transportes y comunicaciones,Campeche,202509,Entre 30 y 35 años,329.44375,386.562934132,2487,2202,285,0,175,167,8,0
+7,Transportes y comunicaciones,Campeche,202509,Entre 35 y 40 años,350.501,408.046073620,2085,1831,254,0,173,163,10,0
+7,Transportes y comunicaciones,Campeche,202509,Entre 40 y 45 años,363.0025,371.952878788,1277,1122,155,0,136,132,4,0
+7,Transportes y comunicaciones,Campeche,202509,Entre 45 y 50 años,377.8375,377.1692,805,714,91,0,79,75,4,0
+7,Transportes y comunicaciones,Campeche,202509,Entre 50 y 55 años,328.742,383.438260870,570,495,75,0,74,69,5,0
+7,Transportes y comunicaciones,Campeche,202509,Entre 55 y 60 años,355.316666667,379.200185185,336,293,43,0,57,54,3,0
+7,Transportes y comunicaciones,Campeche,202509,Entre 60 y 65 años,822.56,375.324166667,111,106,5,0,13,12,1,0
+7,Transportes y comunicaciones,Campeche,202509,Entre 65 y 70 años,,341.76,42,40,2,0,2,2,0,0
+7,Transportes y comunicaciones,Campeche,202509,Entre 70 y 75 años,,409.05,15,13,2,0,1,1,0,0
+7,Transportes y comunicaciones,Chiapas,202509,75 años y más,,381.77875,994,932,62,0,8,8,0,0
+7,Transportes y comunicaciones,Chiapas,202509,Entre 15 y 20 años,,381.81,248,228,20,0,12,12,0,0
+7,Transportes y comunicaciones,Chiapas,202509,Entre 20 y 25 años,412.6525,377.537988506,4807,4461,346,0,182,174,8,0
+7,Transportes y comunicaciones,Chiapas,202509,Entre 25 y 30 años,365.436470588,382.517344173,6730,6222,508,0,386,369,17,0
+7,Transportes y comunicaciones,Chiapas,202509,Entre 30 y 35 años,346.032857143,388.833238771,5703,5260,443,0,437,423,14,0
+7,Transportes y comunicaciones,Chiapas,202509,Entre 35 y 40 años,344.162,390.506292683,4314,3970,344,0,425,410,15,0
+7,Transportes y comunicaciones,Chiapas,202509,Entre 40 y 45 años,363.966363636,392.308083624,2698,2494,204,0,298,287,11,0
+7,Transportes y comunicaciones,Chiapas,202509,Entre 45 y 50 años,386.890909091,389.586017699,1655,1514,141,0,237,226,11,0
+7,Transportes y comunicaciones,Chiapas,202509,Entre 50 y 55 años,363.742,385.683333333,970,877,93,0,149,144,5,0
+7,Transportes y comunicaciones,Chiapas,202509,Entre 55 y 60 años,405.325,393.838095238,550,500,50,0,86,84,2,0
+7,Transportes y comunicaciones,Chiapas,202509,Entre 60 y 65 años,,358.015882353,211,199,12,0,17,17,0,0
+7,Transportes y comunicaciones,Chiapas,202509,Entre 65 y 70 años,,370.675,70,69,1,0,6,6,0,0
+7,Transportes y comunicaciones,Chiapas,202509,Entre 70 y 75 años,,319.45,18,16,2,0,2,2,0,0
+7,Transportes y comunicaciones,Chihuahua,202509,75 años y más,369.355,346.948214286,956,817,139,0,30,28,2,0
+7,Transportes y comunicaciones,Chihuahua,202509,Entre 15 y 20 años,,377.330285714,1302,1158,144,0,35,35,0,0
+7,Transportes y comunicaciones,Chihuahua,202509,Entre 20 y 25 años,334.43375,366.364386921,8512,7185,1327,0,383,367,16,0
+7,Transportes y comunicaciones,Chihuahua,202509,Entre 25 y 30 años,343.533818182,376.265829308,9085,7475,1610,0,676,621,55,0
+7,Transportes y comunicaciones,Chihuahua,202509,Entre 30 y 35 años,354.231621622,382.539637584,8368,6840,1528,0,819,745,74,0
+7,Transportes y comunicaciones,Chihuahua,202509,Entre 35 y 40 años,367.750370370,388.172165605,5998,4828,1170,0,682,628,54,0
+7,Transportes y comunicaciones,Chihuahua,202509,Entre 40 y 45 años,358.201587302,387.023086681,4083,3352,731,0,536,473,63,0
+7,Transportes y comunicaciones,Chihuahua,202509,Entre 45 y 50 años,377.279534884,388.334164589,2797,2293,504,0,444,401,43,0
+7,Transportes y comunicaciones,Chihuahua,202509,Entre 50 y 55 años,372.095263158,400.272173913,1864,1568,296,0,341,322,19,0
+7,Transportes y comunicaciones,Chihuahua,202509,Entre 55 y 60 años,353.46125,397.652870370,1176,1038,138,0,224,216,8,0
+7,Transportes y comunicaciones,Chihuahua,202509,Entre 60 y 65 años,418.2475,396.252375,539,486,53,0,84,80,4,0
+7,Transportes y comunicaciones,Chihuahua,202509,Entre 65 y 70 años,,370.936764706,206,201,5,0,34,34,0,0
+7,Transportes y comunicaciones,Chihuahua,202509,Entre 70 y 75 años,,424.0575,26,25,1,0,4,4,0,0
+7,Transportes y comunicaciones,Ciudad de México,202509,75 años y más,329.26,350.249038462,8845,7834,1011,0,109,104,5,0
+7,Transportes y comunicaciones,Ciudad de México,202509,Entre 15 y 20 años,,357.352702703,1284,1147,137,0,37,37,0,0
+7,Transportes y comunicaciones,Ciudad de México,202509,Entre 20 y 25 años,345.768108108,352.601252723,32843,29418,3424,1,955,918,37,0
+7,Transportes y comunicaciones,Ciudad de México,202509,Entre 25 y 30 años,333.024591837,364.013854722,45088,40413,4675,0,2163,2065,98,0
+7,Transportes y comunicaciones,Ciudad de México,202509,Entre 30 y 35 años,341.600805369,370.452677999,46589,41886,4703,0,3267,3118,149,0
+7,Transportes y comunicaciones,Ciudad de México,202509,Entre 35 y 40 años,340.088033708,374.048392811,42299,38323,3976,0,4017,3839,178,0
+7,Transportes y comunicaciones,Ciudad de México,202509,Entre 40 y 45 años,346.134285714,383.226353930,38390,34948,3442,0,4584,4402,182,0
+7,Transportes y comunicaciones,Ciudad de México,202509,Entre 45 y 50 años,349.475384615,384.309606855,29364,26640,2724,0,4137,3968,169,0
+7,Transportes y comunicaciones,Ciudad de México,202509,Entre 50 y 55 años,363.656013986,386.672731666,22444,20407,2037,0,3661,3518,143,0
+7,Transportes y comunicaciones,Ciudad de México,202509,Entre 55 y 60 años,354.602261905,383.899913043,13298,12238,1060,0,2384,2300,84,0
+7,Transportes y comunicaciones,Ciudad de México,202509,Entre 60 y 65 años,367.109166667,377.231757741,6936,6530,406,0,1122,1098,24,0
+7,Transportes y comunicaciones,Ciudad de México,202509,Entre 65 y 70 años,354.64,367.158414239,2572,2435,137,0,313,309,4,0
+7,Transportes y comunicaciones,Ciudad de México,202509,Entre 70 y 75 años,,370.895542169,716,676,40,0,83,83,0,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202509,75 años y más,,345.575789474,612,541,71,0,19,19,0,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202509,Entre 15 y 20 años,278.8,381.034705882,782,713,69,0,18,17,1,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202509,Entre 20 y 25 años,389.126363636,352.089897611,5600,5037,563,0,304,293,11,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202509,Entre 25 y 30 años,344.854285714,362.103225806,6877,6205,672,0,586,558,28,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202509,Entre 30 y 35 años,334.242820513,374.086243386,7260,6411,849,0,795,756,39,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202509,Entre 35 y 40 años,366.651521739,369.881306241,5690,5029,661,0,735,689,46,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202509,Entre 40 y 45 años,368.683030303,376.430790378,4175,3694,481,0,615,582,33,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202509,Entre 45 y 50 años,316.259285714,378.669680365,2812,2493,319,0,466,438,28,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202509,Entre 50 y 55 años,339.031578947,380.679311377,1789,1591,198,0,353,334,19,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202509,Entre 55 y 60 años,387.248333333,386.080544554,1020,931,89,0,208,202,6,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202509,Entre 60 y 65 años,458.87,375.991651376,571,525,46,0,110,109,1,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202509,Entre 65 y 70 años,379.08,358.762,175,166,9,0,31,30,1,0
+7,Transportes y comunicaciones,Coahuila de Zaragoza,202509,Entre 70 y 75 años,,353.86,38,38,0,0,8,8,0,0
+7,Transportes y comunicaciones,Colima,202509,75 años y más,,459.66,297,266,31,0,3,3,0,0
+7,Transportes y comunicaciones,Colima,202509,Entre 15 y 20 años,,377.788571429,266,237,29,0,7,7,0,0
+7,Transportes y comunicaciones,Colima,202509,Entre 20 y 25 años,343.635,359.521612903,1578,1432,146,0,33,31,2,0
+7,Transportes y comunicaciones,Colima,202509,Entre 25 y 30 años,320.103333333,381.86734375,1512,1336,176,0,70,64,6,0
+7,Transportes y comunicaciones,Colima,202509,Entre 30 y 35 años,363.595,365.537142857,1240,1071,169,0,72,70,2,0
+7,Transportes y comunicaciones,Colima,202509,Entre 35 y 40 años,372.382857143,376.875731707,967,835,132,0,89,82,7,0
+7,Transportes y comunicaciones,Colima,202509,Entre 40 y 45 años,405.14,389.600166667,679,578,101,0,66,60,6,0
+7,Transportes y comunicaciones,Colima,202509,Entre 45 y 50 años,,394.685581395,413,339,74,0,43,43,0,0
+7,Transportes y comunicaciones,Colima,202509,Entre 50 y 55 años,315.65,387.778055556,260,224,36,0,37,36,1,0
+7,Transportes y comunicaciones,Colima,202509,Entre 55 y 60 años,411.58,404.344166667,162,144,18,0,26,24,2,0
+7,Transportes y comunicaciones,Colima,202509,Entre 60 y 65 años,,369.838333333,70,65,5,0,12,12,0,0
+7,Transportes y comunicaciones,Colima,202509,Entre 65 y 70 años,,379.2625,41,40,1,0,4,4,0,0
+7,Transportes y comunicaciones,Colima,202509,Entre 70 y 75 años,,,13,12,1,0,0,0,0,0
+7,Transportes y comunicaciones,Durango,202509,75 años y más,,338.845,520,467,53,0,12,12,0,0
+7,Transportes y comunicaciones,Durango,202509,Entre 15 y 20 años,,381.696666667,398,370,28,0,3,3,0,0
+7,Transportes y comunicaciones,Durango,202509,Entre 20 y 25 años,785.1625,362.619042553,3253,2960,293,0,98,94,4,0
+7,Transportes y comunicaciones,Durango,202509,Entre 25 y 30 años,365.17125,368.382165605,3453,3113,340,0,165,157,8,0
+7,Transportes y comunicaciones,Durango,202509,Entre 30 y 35 años,321.04,393.435787037,3232,2827,405,0,229,216,13,0
+7,Transportes y comunicaciones,Durango,202509,Entre 35 y 40 años,382.185555556,385.090055866,2217,1956,261,0,188,179,9,0
+7,Transportes y comunicaciones,Durango,202509,Entre 40 y 45 años,357.754375,398.008410596,1600,1383,217,0,167,151,16,0
+7,Transportes y comunicaciones,Durango,202509,Entre 45 y 50 años,371.521,388.735281690,1086,945,141,0,152,142,10,0
+7,Transportes y comunicaciones,Durango,202509,Entre 50 y 55 años,398.604615385,409.945172414,718,619,99,0,129,116,13,0
+7,Transportes y comunicaciones,Durango,202509,Entre 55 y 60 años,310.09,398.950363636,405,360,45,0,56,55,1,0
+7,Transportes y comunicaciones,Durango,202509,Entre 60 y 65 años,300.53,389.119189189,196,178,18,0,38,37,1,0
+7,Transportes y comunicaciones,Durango,202509,Entre 65 y 70 años,,420.614666667,88,84,4,0,15,15,0,0
+7,Transportes y comunicaciones,Durango,202509,Entre 70 y 75 años,,576.17,25,24,1,0,1,1,0,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202509,75 años y más,292.54,379.01,338,298,40,0,14,13,1,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202509,Entre 15 y 20 años,,327.72,115,106,9,0,1,1,0,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202509,Entre 20 y 25 años,468.41,391.141509434,1069,941,128,0,54,53,1,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202509,Entre 25 y 30 años,335.28,390.430461538,1267,1147,120,0,135,130,5,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202509,Entre 30 y 35 años,377.819285714,395.108292683,1529,1368,161,0,178,164,14,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202509,Entre 35 y 40 años,371.38625,401.692173913,1315,1178,137,0,169,161,8,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202509,Entre 40 y 45 años,377.14,399.048370370,910,807,103,0,143,135,8,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202509,Entre 45 y 50 años,363.098571429,404.064772727,764,667,97,0,139,132,7,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202509,Entre 50 y 55 años,380.018,402.956382979,479,412,67,0,99,94,5,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202509,Entre 55 y 60 años,371.433333333,416.637540984,326,285,41,0,64,61,3,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202509,Entre 60 y 65 años,310.345,433.787428571,164,145,19,0,37,35,2,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202509,Entre 65 y 70 años,,383.851052632,78,73,5,0,19,19,0,0
+7,Transportes y comunicaciones,Extranjero/Extranjera,202509,Entre 70 y 75 años,,338.3775,24,24,0,0,4,4,0,0
+7,Transportes y comunicaciones,Guanajuato,202509,75 años y más,,345.3355,1403,1302,101,0,20,20,0,0
+7,Transportes y comunicaciones,Guanajuato,202509,Entre 15 y 20 años,,343.014736842,1163,1084,79,0,19,19,0,0
+7,Transportes y comunicaciones,Guanajuato,202509,Entre 20 y 25 años,351.64,354.763333333,8499,7920,579,0,247,243,4,0
+7,Transportes y comunicaciones,Guanajuato,202509,Entre 25 y 30 años,326.874210526,366.136258503,9352,8587,765,0,460,441,19,0
+7,Transportes y comunicaciones,Guanajuato,202509,Entre 30 y 35 años,342.671818182,374.030726979,8230,7537,693,0,652,619,33,0
+7,Transportes y comunicaciones,Guanajuato,202509,Entre 35 y 40 años,355.925333333,378.922516892,6065,5517,548,0,622,592,30,0
+7,Transportes y comunicaciones,Guanajuato,202509,Entre 40 y 45 años,347.019090909,387.168644068,4563,4168,395,0,564,531,33,0
+7,Transportes y comunicaciones,Guanajuato,202509,Entre 45 y 50 años,359.927777778,392.628696682,2923,2647,276,0,440,422,18,0
+7,Transportes y comunicaciones,Guanajuato,202509,Entre 50 y 55 años,343.147333333,389.742953368,2091,1901,190,0,401,386,15,0
+7,Transportes y comunicaciones,Guanajuato,202509,Entre 55 y 60 años,376.98625,387.757874016,1288,1218,70,0,262,254,8,0
+7,Transportes y comunicaciones,Guanajuato,202509,Entre 60 y 65 años,291.52,372.526923077,656,623,33,0,119,117,2,0
+7,Transportes y comunicaciones,Guanajuato,202509,Entre 65 y 70 años,502.88,364.654146341,249,243,6,0,42,41,1,0
+7,Transportes y comunicaciones,Guanajuato,202509,Entre 70 y 75 años,,406.641428571,68,65,3,0,7,7,0,0
+7,Transportes y comunicaciones,Guerrero,202509,75 años y más,309.74,352.971666667,525,481,44,0,7,6,1,0
+7,Transportes y comunicaciones,Guerrero,202509,Entre 15 y 20 años,,376.08,185,169,16,0,4,4,0,0
+7,Transportes y comunicaciones,Guerrero,202509,Entre 20 y 25 años,306.54,407.775764706,2717,2437,280,0,88,85,3,0
+7,Transportes y comunicaciones,Guerrero,202509,Entre 25 y 30 años,408.04,391.410873786,3599,3229,370,0,222,206,16,0
+7,Transportes y comunicaciones,Guerrero,202509,Entre 30 y 35 años,387.254285714,395.489815498,3172,2843,329,0,285,271,14,0
+7,Transportes y comunicaciones,Guerrero,202509,Entre 35 y 40 años,358.2825,402.663365079,2453,2205,248,0,331,315,16,0
+7,Transportes y comunicaciones,Guerrero,202509,Entre 40 y 45 años,343.731333333,408.550410959,1657,1478,179,0,234,219,15,0
+7,Transportes y comunicaciones,Guerrero,202509,Entre 45 y 50 años,349.09,398.825958549,1203,1075,128,0,202,193,9,0
+7,Transportes y comunicaciones,Guerrero,202509,Entre 50 y 55 años,397.761111111,392.7388125,824,750,74,0,169,160,9,0
+7,Transportes y comunicaciones,Guerrero,202509,Entre 55 y 60 años,306.485,408.111348315,471,429,42,0,91,89,2,0
+7,Transportes y comunicaciones,Guerrero,202509,Entre 60 y 65 años,,427.2565,233,213,20,0,40,40,0,0
+7,Transportes y comunicaciones,Guerrero,202509,Entre 65 y 70 años,308.87,412.86125,93,86,7,0,17,16,1,0
+7,Transportes y comunicaciones,Guerrero,202509,Entre 70 y 75 años,,391.1525,25,22,3,0,4,4,0,0
+7,Transportes y comunicaciones,Hidalgo,202509,75 años y más,,323.434,332,299,33,0,5,5,0,0
+7,Transportes y comunicaciones,Hidalgo,202509,Entre 15 y 20 años,,472.34,98,93,5,0,3,3,0,0
+7,Transportes y comunicaciones,Hidalgo,202509,Entre 20 y 25 años,472.14,401.106031746,1498,1361,137,0,66,63,3,0
+7,Transportes y comunicaciones,Hidalgo,202509,Entre 25 y 30 años,294.985,404.070234375,1996,1832,164,0,130,128,2,0
+7,Transportes y comunicaciones,Hidalgo,202509,Entre 30 y 35 años,409.925,417.184078212,1974,1770,204,0,189,179,10,0
+7,Transportes y comunicaciones,Hidalgo,202509,Entre 35 y 40 años,364.548,400.036794872,1361,1248,113,0,161,156,5,0
+7,Transportes y comunicaciones,Hidalgo,202509,Entre 40 y 45 años,406.573333333,402.881140940,940,845,95,0,155,149,6,0
+7,Transportes y comunicaciones,Hidalgo,202509,Entre 45 y 50 años,373.715,413.783084112,708,642,66,0,111,107,4,0
+7,Transportes y comunicaciones,Hidalgo,202509,Entre 50 y 55 años,338.118333333,379.582439024,451,406,45,0,88,82,6,0
+7,Transportes y comunicaciones,Hidalgo,202509,Entre 55 y 60 años,,375.637833333,307,287,20,0,60,60,0,0
+7,Transportes y comunicaciones,Hidalgo,202509,Entre 60 y 65 años,430.39,384.519655172,190,179,11,0,30,29,1,0
+7,Transportes y comunicaciones,Hidalgo,202509,Entre 65 y 70 años,,365.348181818,87,80,7,0,11,11,0,0
+7,Transportes y comunicaciones,Hidalgo,202509,Entre 70 y 75 años,,338.74,25,22,3,0,5,5,0,0
+7,Transportes y comunicaciones,Jalisco,202509,75 años y más,416.645,354.171910112,3233,2955,278,0,91,89,2,0
+7,Transportes y comunicaciones,Jalisco,202509,Entre 15 y 20 años,314.473333333,400.353584906,2346,2161,185,0,56,53,3,0
+7,Transportes y comunicaciones,Jalisco,202509,Entre 20 y 25 años,375.129615385,368.7862,18122,16515,1607,0,876,850,26,0
+7,Transportes y comunicaciones,Jalisco,202509,Entre 25 y 30 años,363.106545455,378.062182911,19813,18038,1775,0,1553,1498,55,0
+7,Transportes y comunicaciones,Jalisco,202509,Entre 30 y 35 años,366.931938776,387.112351611,17823,16056,1767,0,1867,1769,98,0
+7,Transportes y comunicaciones,Jalisco,202509,Entre 35 y 40 años,366.031176471,393.043852371,14746,13141,1605,0,1958,1856,102,0
+7,Transportes y comunicaciones,Jalisco,202509,Entre 40 y 45 años,360.512929293,401.205763221,11086,9935,1151,0,1763,1664,99,0
+7,Transportes y comunicaciones,Jalisco,202509,Entre 45 y 50 años,376.712597403,402.155440613,7656,6810,846,0,1382,1305,77,0
+7,Transportes y comunicaciones,Jalisco,202509,Entre 50 y 55 años,362.297818182,396.899126904,5430,4844,586,0,1040,985,55,0
+7,Transportes y comunicaciones,Jalisco,202509,Entre 55 y 60 años,363.837297297,402.787984496,2954,2702,252,0,682,645,37,0
+7,Transportes y comunicaciones,Jalisco,202509,Entre 60 y 65 años,343.393333333,384.740472973,1427,1349,78,0,299,296,3,0
+7,Transportes y comunicaciones,Jalisco,202509,Entre 65 y 70 años,,382.36859375,491,461,30,0,64,64,0,0
+7,Transportes y comunicaciones,Jalisco,202509,Entre 70 y 75 años,,361.876,136,128,8,0,15,15,0,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202509,75 años y más,314.17,381.589166667,777,737,40,0,13,12,1,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202509,Entre 15 y 20 años,,383.828,338,317,21,0,5,5,0,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202509,Entre 20 y 25 años,296.54,357.771848739,3659,3400,259,0,120,119,1,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202509,Entre 25 y 30 años,341.73,364.546790698,4569,4223,346,0,225,215,10,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202509,Entre 30 y 35 años,395.618,380.884194631,4436,4053,383,0,313,298,15,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202509,Entre 35 y 40 años,354.63,391.405165165,3295,2961,334,0,347,333,14,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202509,Entre 40 y 45 años,334.449,400.730627306,2302,2044,258,0,281,271,10,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202509,Entre 45 y 50 años,381.827272727,398.125177665,1612,1434,178,0,208,197,11,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202509,Entre 50 y 55 años,342.454166667,402.708837209,1104,992,112,0,184,172,12,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202509,Entre 55 y 60 años,326.64,418.040948905,714,675,39,0,139,137,2,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202509,Entre 60 y 65 años,436.81,375.173492063,457,430,27,0,64,63,1,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202509,Entre 65 y 70 años,314.44,341.13875,180,158,22,0,25,24,1,0
+7,Transportes y comunicaciones,Michoacán de Ocampo,202509,Entre 70 y 75 años,,375.99,62,60,2,0,7,7,0,0
+7,Transportes y comunicaciones,Morelos,202509,75 años y más,292.54,347.008,1016,919,97,0,6,5,1,0
+7,Transportes y comunicaciones,Morelos,202509,Entre 15 y 20 años,316.19,405.901428571,152,140,12,0,8,7,1,0
+7,Transportes y comunicaciones,Morelos,202509,Entre 20 y 25 años,328.08,365.317971014,3176,2879,297,0,70,69,1,0
+7,Transportes y comunicaciones,Morelos,202509,Entre 25 y 30 años,347.732,352.148214286,3739,3387,352,0,117,112,5,0
+7,Transportes y comunicaciones,Morelos,202509,Entre 30 y 35 años,342.356666667,369.128064516,3122,2810,312,0,164,155,9,0
+7,Transportes y comunicaciones,Morelos,202509,Entre 35 y 40 años,375.011818182,401.165755396,2168,1948,220,0,150,139,11,0
+7,Transportes y comunicaciones,Morelos,202509,Entre 40 y 45 años,368.32,373.499504950,1523,1389,134,0,108,101,7,0
+7,Transportes y comunicaciones,Morelos,202509,Entre 45 y 50 años,516.256666667,365.578791209,1015,912,103,0,94,91,3,0
+7,Transportes y comunicaciones,Morelos,202509,Entre 50 y 55 años,388.615,380.346419753,649,594,55,0,83,81,2,0
+7,Transportes y comunicaciones,Morelos,202509,Entre 55 y 60 años,398.75,372.947297297,336,308,28,0,38,37,1,0
+7,Transportes y comunicaciones,Morelos,202509,Entre 60 y 65 años,,392.574347826,148,137,11,0,23,23,0,0
+7,Transportes y comunicaciones,Morelos,202509,Entre 65 y 70 años,,346.885,48,47,1,0,4,4,0,0
+7,Transportes y comunicaciones,Morelos,202509,Entre 70 y 75 años,,383.43,17,17,0,0,1,1,0,0
+7,Transportes y comunicaciones,México,202509,75 años y más,408.441666667,347.510126582,8235,7484,751,0,85,79,6,0
+7,Transportes y comunicaciones,México,202509,Entre 15 y 20 años,331.33,346.423428571,1154,1051,103,0,37,35,2,0
+7,Transportes y comunicaciones,México,202509,Entre 20 y 25 años,342.661388889,351.024866469,27183,24751,2432,0,710,674,36,0
+7,Transportes y comunicaciones,México,202509,Entre 25 y 30 años,338.720833333,363.308181175,32783,30027,2756,0,1473,1413,60,0
+7,Transportes y comunicaciones,México,202509,Entre 30 y 35 años,343.074857143,370.118098160,27120,24817,2303,0,1863,1793,70,0
+7,Transportes y comunicaciones,México,202509,Entre 35 y 40 años,359.213220339,378.490642810,17047,15694,1353,0,1568,1509,59,0
+7,Transportes y comunicaciones,México,202509,Entre 40 y 45 años,355.521521739,379.559825986,9026,8275,751,0,908,862,46,0
+7,Transportes y comunicaciones,México,202509,Entre 45 y 50 años,386.777222222,383.207040359,5370,4928,442,0,687,669,18,0
+7,Transportes y comunicaciones,México,202509,Entre 50 y 55 años,340.37625,384.125470297,2924,2709,215,0,420,404,16,0
+7,Transportes y comunicaciones,México,202509,Entre 55 y 60 años,375.28,392.398516949,1471,1371,100,0,243,236,7,0
+7,Transportes y comunicaciones,México,202509,Entre 60 y 65 años,452.98,382.551224490,690,655,35,0,99,98,1,0
+7,Transportes y comunicaciones,México,202509,Entre 65 y 70 años,,369.298823529,250,241,9,0,34,34,0,0
+7,Transportes y comunicaciones,México,202509,Entre 70 y 75 años,,365.544444444,60,56,4,0,9,9,0,0
+7,Transportes y comunicaciones,Nayarit,202509,75 años y más,,361.936923077,394,366,28,0,13,13,0,0
+7,Transportes y comunicaciones,Nayarit,202509,Entre 15 y 20 años,,337.773333333,158,148,10,0,6,6,0,0
+7,Transportes y comunicaciones,Nayarit,202509,Entre 20 y 25 años,323.555,334.097476636,2018,1870,148,0,109,107,2,0
+7,Transportes y comunicaciones,Nayarit,202509,Entre 25 y 30 años,340.273333333,334.097322404,2467,2285,182,0,189,183,6,0
+7,Transportes y comunicaciones,Nayarit,202509,Entre 30 y 35 años,298.68,357.030808511,2357,2162,195,0,243,235,8,0
+7,Transportes y comunicaciones,Nayarit,202509,Entre 35 y 40 años,341.969285714,359.884181818,2046,1851,195,0,289,275,14,0
+7,Transportes y comunicaciones,Nayarit,202509,Entre 40 y 45 años,376.24,365.795810277,1624,1484,140,0,261,253,8,0
+7,Transportes y comunicaciones,Nayarit,202509,Entre 45 y 50 años,327.172,372.218095238,1122,1029,93,0,173,168,5,0
+7,Transportes y comunicaciones,Nayarit,202509,Entre 50 y 55 años,439.976,392.528230088,756,701,55,0,118,113,5,0
+7,Transportes y comunicaciones,Nayarit,202509,Entre 55 y 60 años,380.01,365.642972973,428,408,20,0,76,74,2,0
+7,Transportes y comunicaciones,Nayarit,202509,Entre 60 y 65 años,278.8,350.642727273,232,221,11,0,35,33,2,0
+7,Transportes y comunicaciones,Nayarit,202509,Entre 65 y 70 años,,365.272941176,99,94,5,0,17,17,0,0
+7,Transportes y comunicaciones,Nayarit,202509,Entre 70 y 75 años,,329.97,29,28,1,0,3,3,0,0
+7,Transportes y comunicaciones,Nuevo León,202509,75 años y más,625.285,379.940238095,1188,1035,153,0,44,42,2,0
+7,Transportes y comunicaciones,Nuevo León,202509,Entre 15 y 20 años,356.705,385.416190476,2161,1986,175,0,86,84,2,0
+7,Transportes y comunicaciones,Nuevo León,202509,Entre 20 y 25 años,402.756052632,394.827757511,12471,11130,1341,0,970,932,38,0
+7,Transportes y comunicaciones,Nuevo León,202509,Entre 25 y 30 años,366.533214286,409.757102861,14958,13211,1747,0,1727,1643,84,0
+7,Transportes y comunicaciones,Nuevo León,202509,Entre 30 y 35 años,389.171481481,421.619690570,15030,13203,1827,0,2144,2036,108,0
+7,Transportes y comunicaciones,Nuevo León,202509,Entre 35 y 40 años,370.019577465,424.664410282,12004,10560,1444,0,2126,1984,142,0
+7,Transportes y comunicaciones,Nuevo León,202509,Entre 40 y 45 años,400.107096774,433.777863248,9519,8346,1173,0,1996,1872,124,0
+7,Transportes y comunicaciones,Nuevo León,202509,Entre 45 y 50 años,401.580941176,436.597653820,6612,5873,739,0,1564,1479,85,0
+7,Transportes y comunicaciones,Nuevo León,202509,Entre 50 y 55 años,409.022837838,442.036652397,4241,3730,511,0,1242,1168,74,0
+7,Transportes y comunicaciones,Nuevo León,202509,Entre 55 y 60 años,406.75,432.276619519,2517,2305,212,0,737,707,30,0
+7,Transportes y comunicaciones,Nuevo León,202509,Entre 60 y 65 años,408.976,415.675695364,1245,1152,93,0,312,302,10,0
+7,Transportes y comunicaciones,Nuevo León,202509,Entre 65 y 70 años,322.525,393.078039216,393,366,27,0,106,102,4,0
+7,Transportes y comunicaciones,Nuevo León,202509,Entre 70 y 75 años,321.02,443.303125,83,77,6,0,17,16,1,0
+7,Transportes y comunicaciones,Oaxaca,202509,75 años y más,292.54,376.76,553,503,50,0,17,16,1,0
+7,Transportes y comunicaciones,Oaxaca,202509,Entre 15 y 20 años,309.68,333.6625,196,177,19,0,5,4,1,0
+7,Transportes y comunicaciones,Oaxaca,202509,Entre 20 y 25 años,346.55,370.365876289,2989,2721,268,0,99,97,2,0
+7,Transportes y comunicaciones,Oaxaca,202509,Entre 25 y 30 años,347.051,393.103464567,3976,3607,369,0,264,254,10,0
+7,Transportes y comunicaciones,Oaxaca,202509,Entre 30 y 35 años,358.735,389.096273063,3474,3150,324,0,295,271,24,0
+7,Transportes y comunicaciones,Oaxaca,202509,Entre 35 y 40 años,385.469545455,385.126204380,2492,2242,250,0,296,274,22,0
+7,Transportes y comunicaciones,Oaxaca,202509,Entre 40 y 45 años,340.947647059,401.254137931,1850,1702,148,0,249,232,17,0
+7,Transportes y comunicaciones,Oaxaca,202509,Entre 45 y 50 años,347.15125,407.277513514,1301,1204,97,0,193,185,8,0
+7,Transportes y comunicaciones,Oaxaca,202509,Entre 50 y 55 años,424.254444444,389.815039370,801,739,62,0,136,127,9,0
+7,Transportes y comunicaciones,Oaxaca,202509,Entre 55 y 60 años,408.412,398.885180723,396,370,26,0,88,83,5,0
+7,Transportes y comunicaciones,Oaxaca,202509,Entre 60 y 65 años,,408.514634146,260,231,29,0,41,41,0,0
+7,Transportes y comunicaciones,Oaxaca,202509,Entre 65 y 70 años,418.79,401.846666667,90,82,8,0,13,12,1,0
+7,Transportes y comunicaciones,Oaxaca,202509,Entre 70 y 75 años,,414.11,32,29,3,0,1,1,0,0
+7,Transportes y comunicaciones,Puebla,202509,75 años y más,323.74,357.6748,1424,1333,91,0,27,25,2,0
+7,Transportes y comunicaciones,Puebla,202509,Entre 15 y 20 años,,368.937142857,499,462,37,0,7,7,0,0
+7,Transportes y comunicaciones,Puebla,202509,Entre 20 y 25 años,374.783333333,364.603609959,7089,6554,535,0,247,241,6,0
+7,Transportes y comunicaciones,Puebla,202509,Entre 25 y 30 años,349.36875,381.891813472,9092,8412,680,0,587,579,8,0
+7,Transportes y comunicaciones,Puebla,202509,Entre 30 y 35 años,358.311818182,379.011388102,8406,7754,652,0,728,706,22,0
+7,Transportes y comunicaciones,Puebla,202509,Entre 35 y 40 años,354.470833333,390.771450068,6376,5862,514,0,767,731,36,0
+7,Transportes y comunicaciones,Puebla,202509,Entre 40 y 45 años,372.858235294,389.293562691,4795,4404,391,0,688,654,34,0
+7,Transportes y comunicaciones,Puebla,202509,Entre 45 y 50 años,395.192105263,393.106890130,3436,3171,265,0,556,537,19,0
+7,Transportes y comunicaciones,Puebla,202509,Entre 50 y 55 años,342.063076923,395.949216590,2284,2101,183,0,447,434,13,0
+7,Transportes y comunicaciones,Puebla,202509,Entre 55 y 60 años,360.481666667,383.382984496,1269,1195,74,0,264,258,6,0
+7,Transportes y comunicaciones,Puebla,202509,Entre 60 y 65 años,338.015,371.365510204,676,644,32,0,100,98,2,0
+7,Transportes y comunicaciones,Puebla,202509,Entre 65 y 70 años,437.58,375.1324,213,201,12,0,26,25,1,0
+7,Transportes y comunicaciones,Puebla,202509,Entre 70 y 75 años,,362.992222222,65,64,1,0,9,9,0,0
+7,Transportes y comunicaciones,Querétaro,202509,75 años y más,,351.701428571,654,600,54,0,7,7,0,0
+7,Transportes y comunicaciones,Querétaro,202509,Entre 15 y 20 años,,371.914285714,185,170,15,0,7,7,0,0
+7,Transportes y comunicaciones,Querétaro,202509,Entre 20 y 25 años,306.196666667,347.736302521,2776,2580,196,0,122,119,3,0
+7,Transportes y comunicaciones,Querétaro,202509,Entre 25 y 30 años,344.9125,368.640946502,3710,3361,349,0,251,243,8,0
+7,Transportes y comunicaciones,Querétaro,202509,Entre 30 y 35 años,324.55,377.618215613,3330,3025,305,0,283,269,14,0
+7,Transportes y comunicaciones,Querétaro,202509,Entre 35 y 40 años,361.99,371.711983471,2508,2274,234,0,255,242,13,0
+7,Transportes y comunicaciones,Querétaro,202509,Entre 40 y 45 años,360.101666667,381.582142857,1870,1690,180,0,242,224,18,0
+7,Transportes y comunicaciones,Querétaro,202509,Entre 45 y 50 años,336.56375,382.818928571,1218,1123,95,0,204,196,8,0
+7,Transportes y comunicaciones,Querétaro,202509,Entre 50 y 55 años,340.24,377.01376,746,691,55,0,133,125,8,0
+7,Transportes y comunicaciones,Querétaro,202509,Entre 55 y 60 años,311.75,378.574285714,397,378,19,0,78,77,1,0
+7,Transportes y comunicaciones,Querétaro,202509,Entre 60 y 65 años,318.36,384.218,172,164,8,0,36,35,1,0
+7,Transportes y comunicaciones,Querétaro,202509,Entre 65 y 70 años,,356.056666667,66,65,1,0,6,6,0,0
+7,Transportes y comunicaciones,Querétaro,202509,Entre 70 y 75 años,,,14,14,0,0,0,0,0,0
+7,Transportes y comunicaciones,Quintana Roo,202509,75 años y más,320.14,397.22,789,716,73,0,12,11,1,0
+7,Transportes y comunicaciones,Quintana Roo,202509,Entre 15 y 20 años,,374.8525,532,496,36,0,4,4,0,0
+7,Transportes y comunicaciones,Quintana Roo,202509,Entre 20 y 25 años,318.576666667,357.160153846,3704,3323,381,0,71,65,6,0
+7,Transportes y comunicaciones,Quintana Roo,202509,Entre 25 y 30 años,345.204,372.493928571,3693,3252,441,0,145,140,5,0
+7,Transportes y comunicaciones,Quintana Roo,202509,Entre 30 y 35 años,351.208333333,383.469160839,2948,2546,402,0,155,143,12,0
+7,Transportes y comunicaciones,Quintana Roo,202509,Entre 35 y 40 años,347.646923077,378.418849558,1583,1367,216,0,126,113,13,0
+7,Transportes y comunicaciones,Quintana Roo,202509,Entre 40 y 45 años,351.32,378.417272727,825,719,106,0,80,77,3,0
+7,Transportes y comunicaciones,Quintana Roo,202509,Entre 45 y 50 años,352.2,402.484722222,370,334,36,0,40,36,4,0
+7,Transportes y comunicaciones,Quintana Roo,202509,Entre 50 y 55 años,,384.289166667,137,120,17,0,12,12,0,0
+7,Transportes y comunicaciones,Quintana Roo,202509,Entre 55 y 60 años,278.8,357.3475,52,45,7,0,9,8,1,0
+7,Transportes y comunicaciones,Quintana Roo,202509,Entre 60 y 65 años,,381.363333333,32,27,5,0,6,6,0,0
+7,Transportes y comunicaciones,Quintana Roo,202509,Entre 65 y 70 años,,326.57,5,5,0,0,1,1,0,0
+7,Transportes y comunicaciones,Quintana Roo,202509,Entre 70 y 75 años,,,3,1,2,0,0,0,0,0
+7,Transportes y comunicaciones,San Luis Potosí,202509,75 años y más,,360.601176471,689,632,57,0,17,17,0,0
+7,Transportes y comunicaciones,San Luis Potosí,202509,Entre 15 y 20 años,,367.244444444,637,577,60,0,18,18,0,0
+7,Transportes y comunicaciones,San Luis Potosí,202509,Entre 20 y 25 años,308.415714286,363.882564103,4584,4155,429,0,202,195,7,0
+7,Transportes y comunicaciones,San Luis Potosí,202509,Entre 25 y 30 años,373.222777778,377.977357955,5536,4958,578,0,370,352,18,0
+7,Transportes y comunicaciones,San Luis Potosí,202509,Entre 30 y 35 años,390.393,390.130129310,5322,4734,588,0,484,464,20,0
+7,Transportes y comunicaciones,San Luis Potosí,202509,Entre 35 y 40 años,387.223103448,386.128943489,3854,3398,456,0,436,407,29,0
+7,Transportes y comunicaciones,San Luis Potosí,202509,Entre 40 y 45 años,342.328823529,394.736243243,2520,2234,286,0,387,370,17,0
+7,Transportes y comunicaciones,San Luis Potosí,202509,Entre 45 y 50 años,373.6435,398.833268482,1699,1482,217,0,277,257,20,0
+7,Transportes y comunicaciones,San Luis Potosí,202509,Entre 50 y 55 años,405.851,406.352622222,1149,1016,133,0,235,225,10,0
+7,Transportes y comunicaciones,San Luis Potosí,202509,Entre 55 y 60 años,418.7275,396.71,704,640,64,0,152,148,4,0
+7,Transportes y comunicaciones,San Luis Potosí,202509,Entre 60 y 65 años,318.95,393.188767123,385,363,22,0,74,73,1,0
+7,Transportes y comunicaciones,San Luis Potosí,202509,Entre 65 y 70 años,332.89,409.581304348,142,134,8,0,24,23,1,0
+7,Transportes y comunicaciones,San Luis Potosí,202509,Entre 70 y 75 años,,402.77,43,43,0,0,9,9,0,0
+7,Transportes y comunicaciones,Sinaloa,202509,75 años y más,353.95,348.750952381,1068,996,72,0,23,21,2,0
+7,Transportes y comunicaciones,Sinaloa,202509,Entre 15 y 20 años,396.355,372.057777778,854,802,52,0,20,18,2,0
+7,Transportes y comunicaciones,Sinaloa,202509,Entre 20 y 25 años,366.881428571,365.114285714,6922,6372,550,0,308,301,7,0
+7,Transportes y comunicaciones,Sinaloa,202509,Entre 25 y 30 años,343.0436,381.530329068,8256,7544,712,0,572,547,25,0
+7,Transportes y comunicaciones,Sinaloa,202509,Entre 30 y 35 años,359.05,384.251704180,7588,6764,824,0,655,622,33,0
+7,Transportes y comunicaciones,Sinaloa,202509,Entre 35 y 40 años,368.655333333,382.785574043,5796,5150,646,0,646,601,45,0
+7,Transportes y comunicaciones,Sinaloa,202509,Entre 40 y 45 años,359.775897436,400.742332090,4381,3862,519,0,575,536,39,0
+7,Transportes y comunicaciones,Sinaloa,202509,Entre 45 y 50 años,388.341034483,383.824327731,3238,2845,393,0,505,476,29,0
+7,Transportes y comunicaciones,Sinaloa,202509,Entre 50 y 55 años,401.386956522,404.444741935,1998,1746,252,0,333,310,23,0
+7,Transportes y comunicaciones,Sinaloa,202509,Entre 55 y 60 años,384.733846154,388.870341463,1179,1073,106,0,218,205,13,0
+7,Transportes y comunicaciones,Sinaloa,202509,Entre 60 y 65 años,398.9475,378.188265306,577,525,52,0,102,98,4,0
+7,Transportes y comunicaciones,Sinaloa,202509,Entre 65 y 70 años,320.056666667,371.951363636,206,190,16,0,25,22,3,0
+7,Transportes y comunicaciones,Sinaloa,202509,Entre 70 y 75 años,316.47,415.200909091,62,59,3,0,12,11,1,0
+7,Transportes y comunicaciones,Sonora,202509,75 años y más,292.54,345.108095238,709,628,81,0,22,21,1,0
+7,Transportes y comunicaciones,Sonora,202509,Entre 15 y 20 años,,319.785294118,555,518,37,0,17,17,0,0
+7,Transportes y comunicaciones,Sonora,202509,Entre 20 y 25 años,438.181111111,354.843692946,5070,4570,500,0,250,241,9,0
+7,Transportes y comunicaciones,Sonora,202509,Entre 25 y 30 años,336.018181818,372.227823276,6187,5451,736,0,497,464,33,0
+7,Transportes y comunicaciones,Sonora,202509,Entre 30 y 35 años,349.817948718,378.602356902,5867,5056,811,0,633,594,39,0
+7,Transportes y comunicaciones,Sonora,202509,Entre 35 y 40 años,348.537076923,384.899153439,4777,4035,742,0,632,567,65,0
+7,Transportes y comunicaciones,Sonora,202509,Entre 40 y 45 años,371.810634921,384.046923077,3670,3151,519,0,557,494,63,0
+7,Transportes y comunicaciones,Sonora,202509,Entre 45 y 50 años,370.130185185,397.591474654,2687,2259,428,0,488,434,54,0
+7,Transportes y comunicaciones,Sonora,202509,Entre 50 y 55 años,376.4,400.557841945,1714,1453,261,0,362,329,33,0
+7,Transportes y comunicaciones,Sonora,202509,Entre 55 y 60 años,368.959,399.680331754,1058,913,145,0,231,211,20,0
+7,Transportes y comunicaciones,Sonora,202509,Entre 60 y 65 años,344.193333333,373.023962264,570,521,49,0,109,106,3,0
+7,Transportes y comunicaciones,Sonora,202509,Entre 65 y 70 años,540.32,366.324333333,206,192,14,0,33,30,3,0
+7,Transportes y comunicaciones,Sonora,202509,Entre 70 y 75 años,,396.65,60,59,1,0,8,8,0,0
+7,Transportes y comunicaciones,Tabasco,202509,75 años y más,,455.7325,566,521,45,0,4,4,0,0
+7,Transportes y comunicaciones,Tabasco,202509,Entre 15 y 20 años,,336.11,329,302,27,0,5,5,0,0
+7,Transportes y comunicaciones,Tabasco,202509,Entre 20 y 25 años,377.9275,377.204285714,3787,3457,330,0,123,119,4,0
+7,Transportes y comunicaciones,Tabasco,202509,Entre 25 y 30 años,400.412222222,385.884862745,4990,4534,456,0,264,255,9,0
+7,Transportes y comunicaciones,Tabasco,202509,Entre 30 y 35 años,374.151052632,386.150555556,4646,4190,456,0,343,324,19,0
+7,Transportes y comunicaciones,Tabasco,202509,Entre 35 y 40 años,354.981875,394.285267857,3616,3297,319,0,352,336,16,0
+7,Transportes y comunicaciones,Tabasco,202509,Entre 40 y 45 años,351.483,387.995954198,2501,2283,218,0,272,262,10,0
+7,Transportes y comunicaciones,Tabasco,202509,Entre 45 y 50 años,359.477777778,392.280295858,1528,1370,158,0,178,169,9,0
+7,Transportes y comunicaciones,Tabasco,202509,Entre 50 y 55 años,408.355714286,392.865045045,882,790,92,0,118,111,7,0
+7,Transportes y comunicaciones,Tabasco,202509,Entre 55 y 60 años,381.7775,376.792352941,433,390,43,0,72,68,4,0
+7,Transportes y comunicaciones,Tabasco,202509,Entre 60 y 65 años,429.04,411.791111111,158,152,6,0,28,27,1,0
+7,Transportes y comunicaciones,Tabasco,202509,Entre 65 y 70 años,,378.791818182,53,51,2,0,11,11,0,0
+7,Transportes y comunicaciones,Tabasco,202509,Entre 70 y 75 años,376.91,325.71,5,4,1,0,2,1,1,0
+7,Transportes y comunicaciones,Tamaulipas,202509,75 años y más,531.2,378.7236,900,800,100,0,26,25,1,0
+7,Transportes y comunicaciones,Tamaulipas,202509,Entre 15 y 20 años,365.42,352.647333333,608,563,45,0,16,15,1,0
+7,Transportes y comunicaciones,Tamaulipas,202509,Entre 20 y 25 años,359.176666667,383.125501355,6102,5420,682,0,396,369,27,0
+7,Transportes y comunicaciones,Tamaulipas,202509,Entre 25 y 30 años,382.896296296,393.229617391,7051,6234,817,0,602,575,27,0
+7,Transportes y comunicaciones,Tamaulipas,202509,Entre 30 y 35 años,368.3684,403.302171344,6448,5627,821,0,727,677,50,0
+7,Transportes y comunicaciones,Tamaulipas,202509,Entre 35 y 40 años,392.325813953,400.943098330,4882,4256,626,0,582,539,43,0
+7,Transportes y comunicaciones,Tamaulipas,202509,Entre 40 y 45 años,355.470833333,407.314248927,3550,3112,438,0,502,466,36,0
+7,Transportes y comunicaciones,Tamaulipas,202509,Entre 45 y 50 años,405.967222222,406.506,2305,2018,287,0,388,370,18,0
+7,Transportes y comunicaciones,Tamaulipas,202509,Entre 50 y 55 años,376.052173913,400.478634686,1590,1387,203,0,294,271,23,0
+7,Transportes y comunicaciones,Tamaulipas,202509,Entre 55 y 60 años,427.184615385,411.782289157,986,865,121,0,179,166,13,0
+7,Transportes y comunicaciones,Tamaulipas,202509,Entre 60 y 65 años,354.48,379.048536585,505,469,36,0,85,82,3,0
+7,Transportes y comunicaciones,Tamaulipas,202509,Entre 65 y 70 años,,345.301,163,155,8,0,20,20,0,0
+7,Transportes y comunicaciones,Tamaulipas,202509,Entre 70 y 75 años,,427.198181818,54,53,1,0,11,11,0,0
+7,Transportes y comunicaciones,Tlaxcala,202509,75 años y más,,297.58,233,225,8,0,1,1,0,0
+7,Transportes y comunicaciones,Tlaxcala,202509,Entre 15 y 20 años,,321.21,65,65,0,0,1,1,0,0
+7,Transportes y comunicaciones,Tlaxcala,202509,Entre 20 y 25 años,,359.118333333,1192,1135,57,0,18,18,0,0
+7,Transportes y comunicaciones,Tlaxcala,202509,Entre 25 y 30 años,392.863333333,375.733396226,1542,1453,89,0,56,53,3,0
+7,Transportes y comunicaciones,Tlaxcala,202509,Entre 30 y 35 años,329.22,385.614696970,1336,1262,74,0,67,66,1,0
+7,Transportes y comunicaciones,Tlaxcala,202509,Entre 35 y 40 años,305.696666667,379.942769231,1035,975,60,0,68,65,3,0
+7,Transportes y comunicaciones,Tlaxcala,202509,Entre 40 y 45 años,389.3,411.079677419,797,753,44,0,64,62,2,0
+7,Transportes y comunicaciones,Tlaxcala,202509,Entre 45 y 50 años,446.35,386.446825397,513,479,34,0,65,63,2,0
+7,Transportes y comunicaciones,Tlaxcala,202509,Entre 50 y 55 años,329.05,391.5375,338,320,18,0,49,48,1,0
+7,Transportes y comunicaciones,Tlaxcala,202509,Entre 55 y 60 años,,397.105,162,154,8,0,16,16,0,0
+7,Transportes y comunicaciones,Tlaxcala,202509,Entre 60 y 65 años,,384.686086957,126,120,6,0,23,23,0,0
+7,Transportes y comunicaciones,Tlaxcala,202509,Entre 65 y 70 años,,383.7125,49,47,2,0,4,4,0,0
+7,Transportes y comunicaciones,Tlaxcala,202509,Entre 70 y 75 años,,397.85,13,12,1,0,1,1,0,0
+7,Transportes y comunicaciones,Veracruz,202509,75 años y más,385.95,352.655333333,1190,1064,126,0,16,15,1,0
+7,Transportes y comunicaciones,Veracruz,202509,Entre 15 y 20 años,472.6,385.320869565,775,699,76,0,26,23,3,0
+7,Transportes y comunicaciones,Veracruz,202509,Entre 20 y 25 años,411.945,385.782555556,8812,7996,816,0,372,360,12,0
+7,Transportes y comunicaciones,Veracruz,202509,Entre 25 y 30 años,370.508571429,383.366061294,12871,11649,1222,0,923,881,42,0
+7,Transportes y comunicaciones,Veracruz,202509,Entre 30 y 35 años,381.178307692,396.414872247,13220,11861,1359,0,1200,1135,65,0
+7,Transportes y comunicaciones,Veracruz,202509,Entre 35 y 40 años,370.696181818,395.989783784,10476,9438,1038,0,1165,1110,55,0
+7,Transportes y comunicaciones,Veracruz,202509,Entre 40 y 45 años,346.421627907,395.538179012,7734,6997,737,0,1015,972,43,0
+7,Transportes y comunicaciones,Veracruz,202509,Entre 45 y 50 años,379.049655172,396.670974967,5256,4797,459,0,788,759,29,0
+7,Transportes y comunicaciones,Veracruz,202509,Entre 50 y 55 años,349.918947368,391.201134216,3350,3050,300,0,548,529,19,0
+7,Transportes y comunicaciones,Veracruz,202509,Entre 55 y 60 años,352.201111111,393.064425676,1787,1648,139,0,305,296,9,0
+7,Transportes y comunicaciones,Veracruz,202509,Entre 60 y 65 años,349.82,397.328048780,905,832,73,0,124,123,1,0
+7,Transportes y comunicaciones,Veracruz,202509,Entre 65 y 70 años,,389.955555556,297,283,14,0,36,36,0,0
+7,Transportes y comunicaciones,Veracruz,202509,Entre 70 y 75 años,,396.535714286,98,93,5,0,7,7,0,0
+7,Transportes y comunicaciones,Yucatán,202509,75 años y más,278.8,337.92,660,596,64,0,12,11,1,0
+7,Transportes y comunicaciones,Yucatán,202509,Entre 15 y 20 años,,444.11,339,315,24,0,3,3,0,0
+7,Transportes y comunicaciones,Yucatán,202509,Entre 20 y 25 años,325.45,353.496153846,4695,4299,396,0,151,143,8,0
+7,Transportes y comunicaciones,Yucatán,202509,Entre 25 y 30 años,339.6,370.935074627,6499,5886,613,0,345,335,10,0
+7,Transportes y comunicaciones,Yucatán,202509,Entre 30 y 35 años,361.750370370,367.854867841,6771,6051,720,0,481,454,27,0
+7,Transportes y comunicaciones,Yucatán,202509,Entre 35 y 40 años,346.752857143,379.218893058,5803,5207,596,0,561,533,28,0
+7,Transportes y comunicaciones,Yucatán,202509,Entre 40 y 45 años,359.082432432,377.478409586,4442,3989,453,0,496,459,37,0
+7,Transportes y comunicaciones,Yucatán,202509,Entre 45 y 50 años,365.961666667,380.916641221,3002,2724,278,0,417,393,24,0
+7,Transportes y comunicaciones,Yucatán,202509,Entre 50 y 55 años,340.3125,395.468703704,2137,1916,221,0,336,324,12,0
+7,Transportes y comunicaciones,Yucatán,202509,Entre 55 y 60 años,379.075,374.86565,1202,1088,114,0,214,200,14,0
+7,Transportes y comunicaciones,Yucatán,202509,Entre 60 y 65 años,361.665,371.004155844,583,540,43,0,79,77,2,0
+7,Transportes y comunicaciones,Yucatán,202509,Entre 65 y 70 años,,363.2146875,171,163,8,0,32,32,0,0
+7,Transportes y comunicaciones,Yucatán,202509,Entre 70 y 75 años,,369.261666667,48,46,2,0,6,6,0,0
+7,Transportes y comunicaciones,Zacatecas,202509,75 años y más,,358.896,268,255,13,0,5,5,0,0
+7,Transportes y comunicaciones,Zacatecas,202509,Entre 15 y 20 años,,399.045,177,173,4,0,2,2,0,0
+7,Transportes y comunicaciones,Zacatecas,202509,Entre 20 y 25 años,369.5675,377.713191489,1412,1312,100,0,51,47,4,0
+7,Transportes y comunicaciones,Zacatecas,202509,Entre 25 y 30 años,365.774,390.838125,1653,1527,126,0,101,96,5,0
+7,Transportes y comunicaciones,Zacatecas,202509,Entre 30 y 35 años,365.745555556,377.87453125,1360,1210,150,0,137,128,9,0
+7,Transportes y comunicaciones,Zacatecas,202509,Entre 35 y 40 años,481.26,392.771419355,1226,1098,128,0,162,155,7,0
+7,Transportes y comunicaciones,Zacatecas,202509,Entre 40 y 45 años,312.782,408.342692308,868,782,86,0,109,104,5,0
+7,Transportes y comunicaciones,Zacatecas,202509,Entre 45 y 50 años,385.59,397.555689655,664,604,60,0,122,116,6,0
+7,Transportes y comunicaciones,Zacatecas,202509,Entre 50 y 55 años,334.5225,400.992857143,542,490,52,0,95,91,4,0
+7,Transportes y comunicaciones,Zacatecas,202509,Entre 55 y 60 años,330.19,399.504125,359,332,27,0,82,80,2,0
+7,Transportes y comunicaciones,Zacatecas,202509,Entre 60 y 65 años,542.49,389.064339623,244,232,12,0,54,53,1,0
+7,Transportes y comunicaciones,Zacatecas,202509,Entre 65 y 70 años,,409.12,85,78,7,0,17,17,0,0
+7,Transportes y comunicaciones,Zacatecas,202509,Entre 70 y 75 años,,447.792,21,19,2,0,5,5,0,0
