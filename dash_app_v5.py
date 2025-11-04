@@ -379,7 +379,7 @@ def layout_mes(df: pd.DataFrame, df_sbc: pd.DataFrame, mes_label: str, app: dash
         totales_div,
         genero_div,
 
-        # 👉 Bloque Sectores
+        # Bloque Sectores
         html.H2("Sectores", style={"color": GUINDA}),
         sectores_div
     ])
@@ -478,7 +478,7 @@ app.layout = html.Div(style={
     "backgroundColor": "#ffffff",
     "padding": "12px"
 }, children=[
-    html.H1("📊 Dashboard IMSS – Plataformas Digitales", style={"color": GUINDA, "textAlign": "center", "marginBottom":"12px"}),
+    html.H1("Dashboard IMSS – Plataformas Digitales", style={"color": GUINDA, "textAlign": "center", "marginBottom":"12px"}),
 
     dcc.Tabs([
         dcc.Tab(label="Julio",       children=[layout_mes(df_jul, sbc_jul, "Julio", app)]),
@@ -492,5 +492,6 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 8050))
     app.run(host="0.0.0.0", port=port, debug=False)
+
 
 
