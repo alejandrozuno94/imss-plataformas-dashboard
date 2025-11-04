@@ -292,17 +292,31 @@ def bloque_genero(df: pd.DataFrame, df_cdmx: pd.DataFrame,
     ], style={"marginBottom": "18px"})
 
 
-# ===================== Bloque Sectores =====================
 def bloque_sectores(df_sbc: pd.DataFrame, titulo: str) -> html.Div:
     """Bloque de sectores para un ámbito (nacional o CDMX)"""
 
-    # ---- Proporción por sector (TDP) -> PIE ----
+    # === Colores fijos por sector ===
+    COLOR_SECTOR = {
+        "Transportes y comunicaciones": BLUE_DARK,
+        "Servicios para empresas": BROWN_LIGHT
+    }
+
+    # ================================================================
+    # 1) Proporción por sector (TDP) -> PIE
+    # ================================================================
     prop = (df_sbc.groupby("Sector", as_index=False)["PTPD_Puestos"].sum())
     total_tdp = prop["PTPD_Puestos"].sum()
     if total_tdp == 0:
         prop["Proporcion"] = 0.0
     else:
         prop["Proporcion"] = prop["PTPD_Puestos"] / total_tdp * 100
+
+    # Ordenar para asegurar consistencia de color
+    prop["Sector"] = pd.Categorical(
+        prop["Sector"],
+        categories=["Transportes y comunicaciones", "Servicios para empresas"],
+        ordered=True
+    )
 
     fig_prop = px.pie(
         prop,
@@ -315,7 +329,7 @@ def bloque_sectores(df_sbc: pd.DataFrame, titulo: str) -> html.Div:
         textinfo="percent",
         textfont=dict(color=WHITE),
         hovertemplate="<b>%{label}</b><br>Proporción: %{percent}<extra></extra>",
-        marker=dict(colors=[BLUE_DARK, BROWN_LIGHT])  # ← ahora usa tus colores institucionales
+        marker=dict(colors=[COLOR_SECTOR.get(s, "#ccc") for s in prop["Sector"]])
     )
     fig_prop.update_layout(
         plot_bgcolor=BG,
@@ -323,7 +337,9 @@ def bloque_sectores(df_sbc: pd.DataFrame, titulo: str) -> html.Div:
         legend_title_text="Sector"
     )
 
-    # ---- Salario promedio por género por sector ----
+    # ================================================================
+    # 2) Salario promedio por género por sector
+    # ================================================================
     sal = (df_sbc.groupby("Sector", as_index=False)[["SalarioFem", "SalarioMasc"]]
            .mean().fillna(0))
     sal_long = sal.melt(
@@ -361,7 +377,9 @@ def bloque_sectores(df_sbc: pd.DataFrame, titulo: str) -> html.Div:
         legend_title_text="Género"
     )
 
-    # ---- Pirámide salarial por edad (promedios) ----
+    # ================================================================
+    # 3) Pirámide salarial por edad
+    # ================================================================
     pir = (df_sbc.groupby("Rango_edad_2", as_index=False)[
         ["SalarioMasc", "SalarioFem"]
     ].mean().fillna(0))
@@ -401,7 +419,9 @@ def bloque_sectores(df_sbc: pd.DataFrame, titulo: str) -> html.Div:
         yaxis_title="Edad"
     )
 
-    # ---- Resumen (salarios y brecha promedio global) ----
+    # ================================================================
+    # 4) Resumen de salarios y brecha promedio
+    # ================================================================
     prom_m = sal["SalarioMasc"].mean()
     prom_f = sal["SalarioFem"].mean()
     brecha_prom = ((prom_m - prom_f) / prom_m * 100) if prom_m else 0
@@ -456,7 +476,9 @@ def bloque_sectores(df_sbc: pd.DataFrame, titulo: str) -> html.Div:
         ])
     ], style=card_style)
 
-    # ---- Brecha salarial por sector: círculos ----
+    # ================================================================
+    # 5) Brecha salarial por sector (círculos)
+    # ================================================================
     brecha = sal.copy()
     brecha["Brecha (%)"] = ((brecha["SalarioMasc"] - brecha["SalarioFem"]) /
                             brecha["SalarioMasc"].replace(0, pd.NA) * 100).fillna(0)
@@ -474,11 +496,9 @@ def bloque_sectores(df_sbc: pd.DataFrame, titulo: str) -> html.Div:
         "margin": "0 auto"
     }
 
-    colors_cycle = [BLUE_DARK, BROWN_LIGHT]  # institucional
-
     brecha_circulos = []
-    for i, row in brecha.iterrows():
-        color = colors_cycle[i % len(colors_cycle)]
+    for _, row in brecha.iterrows():
+        color = COLOR_SECTOR.get(row["Sector"], BLUE_DARK)
         style_circle = dict(circle_base)
         style_circle["backgroundColor"] = color
         brecha_circulos.append(
@@ -500,7 +520,9 @@ def bloque_sectores(df_sbc: pd.DataFrame, titulo: str) -> html.Div:
         html.Div(brecha_circulos, style={"textAlign": "center"})
     ])
 
-    # ---- Ensamble bloque ----
+    # ================================================================
+    # 6) Ensamble final
+    # ================================================================
     return html.Div([
         html.H3(titulo, style={"color": GUINDA}),
         resumen,
@@ -518,7 +540,6 @@ def bloque_sectores(df_sbc: pd.DataFrame, titulo: str) -> html.Div:
                      style={"width": "60%", "margin": "0 auto"})
         ], style={"marginTop": "10px", "marginBottom": "18px"})
     ], style={"marginTop": "14px", "marginBottom": "22px"})
-
 
 def bloque_sectores_nal_cdmx(df_sbc: pd.DataFrame) -> html.Div:
     df_cdmx = df_sbc[df_sbc["entidad_norm"].astype(str)
@@ -1134,3 +1155,4 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port, debug=False)
+
