@@ -43,7 +43,7 @@ def norm_txt(s):
 
 def fmt_num(x):
     try:
-        return f"{int(round(float(x), 0)):,}".replace(",", " ")
+        return f"{int(round(float(x), 0)):,}"
     except Exception:
         return "0"
 
@@ -1155,5 +1155,6 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port, debug=False)
+
 
 
