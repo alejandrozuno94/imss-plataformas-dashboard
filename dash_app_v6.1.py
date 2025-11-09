@@ -973,7 +973,7 @@ def layout_evolucion(df_jul: pd.DataFrame, df_ago: pd.DataFrame, df_sep: pd.Data
     def fmt_diff(x):
         if pd.isna(x):
             return "-"
-        return f"{x:+,.0f}".replace(",", " ")
+        return f"{x:+,.0f}"
 
     def fmt_diff_pct(x):
         if pd.isna(x):
@@ -1155,4 +1155,5 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port, debug=False)
+
 
