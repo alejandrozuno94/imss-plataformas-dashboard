@@ -28,7 +28,7 @@ BROWN_LIGHT = "#C17A5A"
 BEIGE       = "#FEF0C1"
 WHITE       = "#FFFFFF"
 
-FONT = dict(family="Montserrat", color="#333")
+FONT = dict(family="Tahoma, sans-serif", color="#333")
 BG   = "white"
 
 
@@ -1129,7 +1129,7 @@ sbc_ago = cargar_sbc("sbc_ago.csv", "Agosto")
 sbc_sep = cargar_sbc("sbc_sep.csv", "Septiembre")
 
 app.layout = html.Div(style={
-    "fontFamily": "Montserrat",
+    "fontFamily": "Tahoma, sans-serif",
     "backgroundColor": "#ffffff",
     "padding": "12px"
 }, children=[
@@ -1155,6 +1155,7 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port, debug=False)
+
 
 
 
