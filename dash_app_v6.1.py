@@ -364,7 +364,7 @@ def bloque_sectores(df_sbc: pd.DataFrame, titulo: str) -> html.Div:
             "Mujeres": BROWN_LIGHT,
             "Hombres": BLUE_DARK
         },
-        title="Salario base de cotización promedio por género (por sector)"
+        title="Salario base de cotización promedio por sexo (por sector)"
     )
     fig_sal.update_traces(
         hovertemplate="<b>%{y}</b><br>%{fullData.name}: %{x:,.2f}<extra></extra>"
@@ -465,7 +465,7 @@ def bloque_sectores(df_sbc: pd.DataFrame, titulo: str) -> html.Div:
             ], style={"display": "inline-block", "width": "25%"}),
 
             html.Div([
-                html.Div("Brecha salarial prom. (%)",
+                html.Div("Brecha salarial prom. entre hombres y mujeres (%)",
                          style={"color": BLUE_LIGHT, "marginBottom": "4px"}),
                 html.Div(f"{brecha_prom:.1f}%", style={
                     "fontSize": "24px",
@@ -514,7 +514,7 @@ def bloque_sectores(df_sbc: pd.DataFrame, titulo: str) -> html.Div:
         )
 
     brecha_div = html.Div([
-        html.H4("Brecha salarial de género por sector",
+        html.H4("Brecha salarial entre hombres y mujeres por sector",
                 style={"color": GUINDA, "marginTop": "12px",
                        "textAlign": "center", "fontWeight": "700"}),
         html.Div(brecha_circulos, style={"textAlign": "center"})
@@ -695,7 +695,7 @@ def layout_mes(df: pd.DataFrame, df_sbc: pd.DataFrame,
         fig4.update_layout(plot_bgcolor=BG, font=FONT)
 
     totales_div = bloque_totales(df, df_cdmx, app, "Totales (números absolutos)")
-    genero_div  = bloque_genero(df, df_cdmx, app, "Estructura de género (% por categoría)")
+    genero_div  = bloque_genero(df, df_cdmx, app, "Estructura por sexo (% por categoría)")
     sectores_div = bloque_sectores_nal_cdmx(df_sbc)
 
     return html.Div([
@@ -1039,7 +1039,7 @@ def layout_evolucion(df_jul: pd.DataFrame, df_ago: pd.DataFrame, df_sep: pd.Data
         "Salario base de cotización promedio": sal_nat_raw["SalarioMasc"].map(
             lambda x: f"{x:,.2f}"
         ),
-        "Brecha salarial promedio (%)": sal_nat_raw["Brecha"].map(
+        "Brecha salarial promedio entre hombres y mujeres (%)": sal_nat_raw["Brecha"].map(
             lambda x: f"{x:.2f}"
         )
     })
@@ -1062,7 +1062,7 @@ def layout_evolucion(df_jul: pd.DataFrame, df_ago: pd.DataFrame, df_sep: pd.Data
         "Salario base de cotización promedio": sal_cdmx_raw["SalarioMasc"].map(
             lambda x: f"{x:,.2f}"
         ),
-        "Brecha salarial promedio (%)": sal_cdmx_raw["Brecha"].map(
+        "Brecha salarial promedio entre hombres y mujeres (%)": sal_cdmx_raw["Brecha"].map(
             lambda x: f"{x:.2f}"
         )
     })
@@ -1089,7 +1089,7 @@ def layout_evolucion(df_jul: pd.DataFrame, df_ago: pd.DataFrame, df_sep: pd.Data
 
         tabla_html(tabla_nat, "Tabla nacional – Beneficiados, TDP y tasa de formalización"),
         tabla_html_narrow(tabla_sal_nat,
-                          "Tabla nacional – Evolución de salario base y brecha salarial"),
+                          "Tabla nacional – Evolución de salario base y brecha salarial entre hombres y mujeres"),
 
         html.H2("Evolución – Ciudad de México", style={"color": GUINDA, "marginTop": "18px"}),
         html.Div([
@@ -1111,7 +1111,7 @@ def layout_evolucion(df_jul: pd.DataFrame, df_ago: pd.DataFrame, df_sep: pd.Data
 
         tabla_html(tabla_cdmx, "Tabla CDMX – Beneficiados, TDP y tasa de formalización"),
         tabla_html_narrow(tabla_sal_cdmx,
-                          "Tabla CDMX – Evolución de salario base y brecha salarial")
+                          "Tabla CDMX – Evolución de salario base y brecha salarial entre hombres y mujeres")
     ])
 
 
@@ -1133,6 +1133,7 @@ app.layout = html.Div(style={
     "backgroundColor": "#ffffff",
     "padding": "12px"
 }, children=[
+
     html.H1("Dashboard IMSS – Plataformas Digitales",
             style={"color": GUINDA, "textAlign": "center",
                    "marginBottom": "12px"}),
@@ -1155,7 +1156,5 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     app.run(host="0.0.0.0", port=port, debug=False)
-
-
 
 
