@@ -136,11 +136,11 @@ def bloque_totales(df: pd.DataFrame, df_cdmx: pd.DataFrame,
                 html.Div(fmt_num(ben), style=value_style)
             ]),
             html.Div([
-                html.Span("Trab. de plataformas (TDP)", style=label_style),
+                html.Span("Trab. de Plataformas (TDP)", style=label_style),
                 html.Div(fmt_num(tdp), style=value_style)
             ]),
             html.Div([
-                html.Span("Trab. independientes", style=label_style),
+                html.Span("Trab. Independientes (TI)", style=label_style),
                 html.Div(fmt_num(ind), style=value_style)
             ]),
         ], style={"width": "44%", "display": "inline-block", "verticalAlign": "top"})
@@ -322,7 +322,7 @@ def bloque_sectores(df_sbc: pd.DataFrame, titulo: str) -> html.Div:
         prop,
         names="Sector",
         values="PTPD_Puestos",
-        title="Proporción de personas trabajadoras de plataformas por sector",
+        title="Proporción de Personas Trabajadoras de Plataformas por sector",
         hole=0
     )
     fig_prop.update_traces(
@@ -374,7 +374,7 @@ def bloque_sectores(df_sbc: pd.DataFrame, titulo: str) -> html.Div:
         font=FONT,
         xaxis_title="Salario promedio",
         yaxis_title="",
-        legend_title_text="Género"
+        legend_title_text="Sexo"
     )
 
     # ================================================================
@@ -562,18 +562,18 @@ def layout_mes(df: pd.DataFrame, df_sbc: pd.DataFrame,
         y="entidad_display",
         orientation="h",
         color_discrete_sequence=[GUINDA],
-        title=f"Total de personas beneficiadas por entidad ({mes_label})",
+        title=f"Total de Personas Beneficiadas por entidad ({mes_label})",
         height=800
     )
     fig1.update_traces(
         texttemplate="%{x:,.0f}",
         textposition="outside",
-        hovertemplate="<b>%{y}</b><br>Personas beneficiadas: %{x:,.0f}<extra></extra>"
+        hovertemplate="<b>%{y}</b><br>Personas Beneficiadas: %{x:,.0f}<extra></extra>"
     )
     fig1.update_layout(
         plot_bgcolor=BG,
         font=FONT,
-        xaxis_title="Personas beneficiadas",
+        xaxis_title="Personas Beneficiadas",
         yaxis_title="",
         margin=dict(l=80, r=40, t=60, b=30)
     )
@@ -588,15 +588,15 @@ def layout_mes(df: pd.DataFrame, df_sbc: pd.DataFrame,
         orientation="h",
         barmode="group",
         color_discrete_map={"PTPD_Aseg": GUINDA, "PTPD_Puestos": DORADO},
-        title=f"Personas beneficiadas vs Personas trabajadoras de plataformas (TDP) ({mes_label})",
+        title=f"Personas Beneficiadas vs Personas Trabajadoras de Plataformas (TDP) ({mes_label})",
         height=800
     )
     fig2.update_traces(
         hovertemplate="<b>%{y}</b><br>%{fullData.name}: %{x:,.0f}<extra></extra>"
     )
     fig2.for_each_trace(lambda t: t.update(
-        name="Personas beneficiadas" if "Aseg" in t.name
-        else "Personas trabajadoras de plataformas (TDP)"
+        name="Personas Beneficiadas" if "Aseg" in t.name
+        else "Personas Trabajadoras de Plataformas (TDP)"
     ))
     fig2.update_layout(
         plot_bgcolor=BG,
@@ -620,7 +620,7 @@ def layout_mes(df: pd.DataFrame, df_sbc: pd.DataFrame,
         y="Rango_edad_2",
         orientation="h",
         color_discrete_sequence=[VERDE],
-        title=f"Pirámide poblacional de personas beneficiadas – Nacional ({mes_label})"
+        title=f"Pirámide poblacional de Personas Beneficiadas – Nacional ({mes_label})"
     )
     fig3.add_bar(
         x=age_nat["PTPD_Aseg_M"],
@@ -662,7 +662,7 @@ def layout_mes(df: pd.DataFrame, df_sbc: pd.DataFrame,
             y="Rango_edad_2",
             orientation="h",
             color_discrete_sequence=[VERDE],
-            title=f"Pirámide poblacional de personas beneficiadas – CDMX ({mes_label})"
+            title=f"Pirámide poblacional de Personas Beneficiadas – CDMX ({mes_label})"
         )
         fig4.add_bar(
             x=age_cdmx["PTPD_Aseg_M"],
@@ -924,15 +924,15 @@ def layout_evolucion(df_jul: pd.DataFrame, df_ago: pd.DataFrame, df_sep: pd.Data
     )
     fig_nat_bene = line_multi(
         nat, ["PTPD_Aseg_H", "PTPD_Aseg_M"],
-        "Nacional: Beneficiados por género", "Personas"
+        "Nacional: Beneficiados por sexo", "Personas"
     )
     fig_nat_tdp = line_multi(
         nat, ["PTPD_Puestos_H", "PTPD_Puestos_M"],
-        "Nacional: TDP por género", "Personas"
+        "Nacional: TDP por sexo", "Personas"
     )
     fig_nat_ind = line_multi(
         nat, ["independientes_H", "independientes_M"],
-        "Nacional: Independientes por género", "Personas"
+        "Nacional: Independientes por sexo", "Personas"
     )
 
     fig_cdmx_tot = line_multi(
@@ -945,15 +945,15 @@ def layout_evolucion(df_jul: pd.DataFrame, df_ago: pd.DataFrame, df_sep: pd.Data
     )
     fig_cdmx_bene = line_multi(
         cdmx_agg, ["PTPD_Aseg_H", "PTPD_Aseg_M"],
-        "CDMX: Beneficiados por género", "Personas"
+        "CDMX: Beneficiados por sexo", "Personas"
     )
     fig_cdmx_tdp = line_multi(
         cdmx_agg, ["PTPD_Puestos_H", "PTPD_Puestos_M"],
-        "CDMX: TDP por género", "Personas"
+        "CDMX: TDP por sexo", "Personas"
     )
     fig_cdmx_ind = line_multi(
         cdmx_agg, ["independientes_H", "independientes_M"],
-        "CDMX: Independientes por género", "Personas"
+        "CDMX: Independientes por sexo", "Personas"
     )
 
     # ========= Tablas de evolución =========
@@ -982,7 +982,7 @@ def layout_evolucion(df_jul: pd.DataFrame, df_ago: pd.DataFrame, df_sep: pd.Data
 
     tabla_nat = pd.DataFrame({
         "Periodo": nat_tab["Periodo"],
-        "Personas beneficiadas": nat_tab["PTPD_Aseg"].map(fmt_num),
+        "Personas Beneficiadas": nat_tab["PTPD_Aseg"].map(fmt_num),
         "Var. abs. beneficiadas": nat_tab["Var_ben"].map(fmt_diff),
         "Var. % beneficiadas": nat_tab["Var_pct_ben"].map(fmt_diff_pct),
         "Personas TDP": nat_tab["PTPD_Puestos"].map(fmt_num),
@@ -1002,7 +1002,7 @@ def layout_evolucion(df_jul: pd.DataFrame, df_ago: pd.DataFrame, df_sep: pd.Data
 
     tabla_cdmx = pd.DataFrame({
         "Periodo": cdmx_tab["Periodo"],
-        "Personas beneficiadas": cdmx_tab["PTPD_Aseg"].map(fmt_num),
+        "Personas Beneficiadas": cdmx_tab["PTPD_Aseg"].map(fmt_num),
         "Var. abs. beneficiadas": cdmx_tab["Var_ben"].map(fmt_diff),
         "Var. % beneficiadas": cdmx_tab["Var_pct_ben"].map(fmt_diff_pct),
         "Personas TDP": cdmx_tab["PTPD_Puestos"].map(fmt_num),
@@ -1128,15 +1128,108 @@ sbc_jul = cargar_sbc("sbc_jul.csv", "Julio")
 sbc_ago = cargar_sbc("sbc_ago.csv", "Agosto")
 sbc_sep = cargar_sbc("sbc_sep.csv", "Septiembre")
 
+glosario_div = html.Details([
+    html.Summary("Glosario de términos", style={
+        "cursor": "pointer",
+        "fontWeight": "bold",
+        "color": GUINDA,
+        "fontSize": "18px",
+        "marginBottom": "8px"
+    }),
+    html.Div([
+        dcc.Markdown(
+            """
+**Personas Beneficiadas**: Cualquier persona que preste servicio o realice una tarea en un esquema de trabajo presencial mediado por plataformas digitales.  
+A partir de la Reforma Laboral de Plataformas Digitales, todas estas personas están cubiertas por el seguro ante **Riesgos de Trabajo** del IMSS mientras realizan su actividad laboral.
+            """,
+            style={
+                "fontSize": "15px",
+                "lineHeight": "1.5",
+                "color": "#333"
+            }
+        ),
+        html.Small(
+            "Nota: Este total se refiere al total de las afiliaciones de personas que trabajan a través de plataformas digitales. "
+            "No son registros únicos, por lo que puede incluir registros de personas que trabajan en más de una plataforma.",
+            style={
+                "display": "block",
+                "marginBottom": "12px",
+                "marginLeft": "12px",
+                "color": "#555",
+                "fontSize": "13px"
+            }
+        ),
+        html.Hr(),
+        dcc.Markdown(
+            """
+**Personas Trabajadoras de Plataforma Digital (TDP)**: Personas que trabajan en plataformas digitales y que al final de un mes calendario alcanzaron el umbral de ingresos necesario para ser consideradas Personas Trabajadoras de Plataforma Digital.  
+Es decir, después de descontar el **Factor de Exclusión**, su ingreso neto resultó igual o superior al **Salario Mínimo de la Ciudad de México.**  
+Estas personas trabajadoras tienen acceso a una cobertura integral en las 5 áreas de aseguramiento que ofrece el IMSS.
+            """,
+            style={
+                "fontSize": "15px",
+                "lineHeight": "1.5",
+                "color": "#333"
+            }
+        ),
+        html.Hr(),
+        dcc.Markdown(
+            """
+**Personas Trabajadoras Independientes (TI)**: Personas que trabajan en plataformas digitales y que al término de un mes calendario no alcanzaron el umbral de ingresos necesario para ser consideradas TDP.  
+Estas personas siempre están cubiertas por el seguro de **Riesgos de Trabajo**, así como la cobertura por el seguro de **Enfermedades y Maternidad en especie.**
+            """,
+            style={
+                "fontSize": "15px",
+                "lineHeight": "1.5",
+                "color": "#333"
+            }
+        ),
+        html.Hr(),
+        dcc.Markdown(
+            """
+**Factor de exclusión**: Mecanismo contable que se aplica al ingreso bruto de quien trabaja a través de una Plataforma Digital para determinar quién es una Persona Trabajadora Independiente y quién es Persona Trabajadora de Plataforma.  
+El factor depende del medio de transporte que use cada persona para trabajar.
+            """,
+            style={
+                "fontSize": "15px",
+                "lineHeight": "1.5",
+                "color": "#333"
+            }
+        ),
+        html.Small(
+            "Desde el segundo trimestre (oct-dic) de la Prueba Piloto, los factores de exclusión son los siguientes: "
+            "Vehículos de 4 ruedas con motor: 55% · Vehículos de 2 ruedas con motor: 40% · Vehículos sin motor o sin vehículo: 12%",
+            style={
+                "display": "block",
+                "marginTop": "8px",
+                "color": "#555",
+                "fontSize": "13px"
+            }
+        )
+    ], style={
+        "backgroundColor": "#f9f9f9",
+        "padding": "12px",
+        "borderRadius": "8px",
+        "border": "1px solid #ddd"
+    })
+], open=False, style={
+    "marginBottom": "18px",
+    "boxShadow": "0 4px 8px rgba(0,0,0,.05)",
+    "borderRadius": "8px",
+    "padding": "6px"
+})
+
 app.layout = html.Div(style={
     "fontFamily": "Tahoma, sans-serif",
     "backgroundColor": "#ffffff",
     "padding": "12px"
 }, children=[
 
-    html.H1("Dashboard IMSS – Plataformas Digitales",
+    html.H1("Tablero de datos. IMSS – Plataformas Digitales",
             style={"color": GUINDA, "textAlign": "center",
                    "marginBottom": "12px"}),
+
+    glosario_div,
 
     dcc.Tabs([
         dcc.Tab(label="Julio",
