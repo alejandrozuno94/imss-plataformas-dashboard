@@ -1,3 +1,5 @@
+#prueba Colores:
+
 # -*- coding: utf-8 -*-
 """
 Dashboard IMSS – Plataformas Digitales (v6, ajustado)
@@ -15,18 +17,21 @@ import dash
 from dash import html, dcc
 import plotly.express as px
 import unicodedata
-
 # ======== Paletas ========
 GUINDA = "#9d2148"
 DORADO = "#b28e5c"
 VERDE  = "#027a35"
 
 # Paleta “porcentajes/razones”
-BLUE_DARK   = "#2F5761"
+BLUE_DARK   = "#2F5761"   # Hombres
 BLUE_LIGHT  = "#628184"
-BROWN_LIGHT = "#C17A5A"
+BROWN_LIGHT = "#C17A5A"   # Mujeres
 BEIGE       = "#FEF0C1"
 WHITE       = "#FFFFFF"
+
+# Sectores
+MORADO = "#266cb4"   # Transporte y comunicaciones
+GRIS   = "#7D8E9F"   # Servicios para empresas
 
 FONT = dict(family="Tahoma, sans-serif", color="#333")
 BG   = "white"
@@ -297,8 +302,8 @@ def bloque_sectores(df_sbc: pd.DataFrame, titulo: str) -> html.Div:
 
     # === Colores fijos por sector ===
     COLOR_SECTOR = {
-        "Transportes y comunicaciones": BLUE_DARK,
-        "Servicios para empresas": BROWN_LIGHT
+        "Transportes y comunicaciones": MORADO,  # 8F4889
+        "Servicios para empresas": GRIS          # AABAC5
     }
 
     # ================================================================
@@ -619,14 +624,14 @@ def layout_mes(df: pd.DataFrame, df_sbc: pd.DataFrame,
         x="PTPD_Aseg_H_neg",
         y="Rango_edad_2",
         orientation="h",
-        color_discrete_sequence=[VERDE],
+        color_discrete_sequence=[BLUE_DARK],
         title=f"Pirámide poblacional de Personas Beneficiadas – Nacional ({mes_label})"
     )
     fig3.add_bar(
         x=age_nat["PTPD_Aseg_M"],
         y=age_nat["Rango_edad_2"],
         orientation="h",
-        marker_color=GUINDA,
+        marker_color=BROWN_LIGHT,
         name="Mujeres",
         hovertemplate="<b>Mujeres beneficiadas</b>: %{x:,.0f}<br>Edad: %{y}<extra></extra>"
     )
@@ -634,7 +639,7 @@ def layout_mes(df: pd.DataFrame, df_sbc: pd.DataFrame,
         x=age_nat["PTPD_Aseg_H_neg"],
         y=age_nat["Rango_edad_2"],
         orientation="h",
-        marker_color=VERDE,
+        marker_color=BLUE_DARK,
         name="Hombres",
         hovertemplate="<b>Hombres beneficiados</b>: %{customdata:,.0f}<br>Edad: %{y}<extra></extra>",
         customdata=men_nat_abs
@@ -661,14 +666,14 @@ def layout_mes(df: pd.DataFrame, df_sbc: pd.DataFrame,
             x="PTPD_Aseg_H_neg",
             y="Rango_edad_2",
             orientation="h",
-            color_discrete_sequence=[VERDE],
+            color_discrete_sequence=[BLUE_DARK],
             title=f"Pirámide poblacional de Personas Beneficiadas – CDMX ({mes_label})"
         )
         fig4.add_bar(
             x=age_cdmx["PTPD_Aseg_M"],
             y=age_cdmx["Rango_edad_2"],
             orientation="h",
-            marker_color=GUINDA,
+            marker_color=BROWN_LIGHT,
             name="Mujeres",
             hovertemplate="<b>Mujeres beneficiadas</b>: %{x:,.0f}<br>Edad: %{y}<extra></extra>"
         )
@@ -676,7 +681,7 @@ def layout_mes(df: pd.DataFrame, df_sbc: pd.DataFrame,
             x=age_cdmx["PTPD_Aseg_H_neg"],
             y=age_cdmx["Rango_edad_2"],
             orientation="h",
-            marker_color=VERDE,
+            marker_color=BLUE_DARK,
             name="Hombres",
             hovertemplate="<b>Hombres beneficiados</b>: %{customdata:,.0f}<br>Edad: %{y}<extra></extra>",
             customdata=men_cdmx_abs
@@ -862,6 +867,8 @@ def layout_evolucion(df_jul: pd.DataFrame, df_ago: pd.DataFrame, df_sep: pd.Data
     def line_multi(df, cols, titulo, ytitle):
         df_long = df.melt(id_vars="Mes", value_vars=cols,
                           var_name="Serie", value_name="Valor")
+
+        # Renombramos las series
         ren = {
             "PTPD_Aseg": "Beneficiados",
             "PTPD_Puestos": "TDP",
@@ -874,14 +881,28 @@ def layout_evolucion(df_jul: pd.DataFrame, df_ago: pd.DataFrame, df_sep: pd.Data
             "independientes_M": "Independientes M"
         }
         df_long["Serie"] = df_long["Serie"].map(ren).fillna(df_long["Serie"])
+
+        # Colores fijos por serie
+        color_map = {
+            "Beneficiados": GUINDA,
+            "TDP": DORADO,
+            "Independientes": VERDE,
+
+            # Por sexo: Hombres / Mujeres
+            "Beneficiados H": BLUE_DARK,
+            "Beneficiados M": BROWN_LIGHT,
+            "TDP H": BLUE_DARK,
+            "TDP M": BROWN_LIGHT,
+            "Independientes H": BLUE_DARK,
+            "Independientes M": BROWN_LIGHT,
+        }
+
         fig = px.line(
-            df_long, x="Mes", y="Valor", color="Serie",
-            color_discrete_sequence=[
-                GUINDA, DORADO, VERDE,
-                "#5c1a2f", "#c0708f",
-                "#806443", "#d7b58a",
-                "#0c4f2b", "#5fb083"
-            ],
+            df_long,
+            x="Mes",
+            y="Valor",
+            color="Serie",
+            color_discrete_map=color_map,
             markers=True,
             title=titulo
         )
