@@ -1,0 +1,430 @@
+﻿entidad_nacimiento,Nivel Agregación,Rango_edad_2,fecha,PTPD_Aseg,PTPD_Aseg_H,PTPD_Aseg_M,PTPD_Aseg_NB,PTPD_Puestos,PTPD_Puestos_H,PTPD_Puestos_NB,PTPD_Puestos_M
+Aguascalientes,subdel,75 años y más,202510,501,461,40,0,13,12,0,1
+Aguascalientes,subdel,Entre 15 y 20 años,202510,426,378,48,0,14,13,0,1
+Aguascalientes,subdel,Entre 20 y 25 años,202510,2669,2440,229,0,115,113,0,2
+Aguascalientes,subdel,Entre 25 y 30 años,202510,2926,2642,284,0,165,157,0,8
+Aguascalientes,subdel,Entre 30 y 35 años,202510,2612,2343,269,0,216,209,0,7
+Aguascalientes,subdel,Entre 35 y 40 años,202510,2046,1819,227,0,196,190,0,6
+Aguascalientes,subdel,Entre 40 y 45 años,202510,1281,1142,139,0,161,150,0,11
+Aguascalientes,subdel,Entre 45 y 50 años,202510,878,780,98,0,135,126,0,9
+Aguascalientes,subdel,Entre 50 y 55 años,202510,581,530,51,0,108,105,0,3
+Aguascalientes,subdel,Entre 55 y 60 años,202510,379,351,28,0,75,75,0,0
+Aguascalientes,subdel,Entre 60 y 65 años,202510,239,232,7,0,44,43,0,1
+Aguascalientes,subdel,Entre 65 y 70 años,202510,71,69,2,0,9,9,0,0
+Aguascalientes,subdel,Entre 70 y 75 años,202510,24,24,0,0,5,5,0,0
+Baja California,subdel,75 años y más,202510,919,832,87,0,50,49,0,1
+Baja California,subdel,Entre 15 y 20 años,202510,842,762,80,0,51,49,0,2
+Baja California,subdel,Entre 20 y 25 años,202510,6161,5551,610,0,591,565,0,26
+Baja California,subdel,Entre 25 y 30 años,202510,6485,5684,801,0,800,754,0,46
+Baja California,subdel,Entre 30 y 35 años,202510,5304,4545,759,0,730,674,0,56
+Baja California,subdel,Entre 35 y 40 años,202510,3451,2959,492,0,587,540,0,47
+Baja California,subdel,Entre 40 y 45 años,202510,2452,2064,388,0,471,418,0,53
+Baja California,subdel,Entre 45 y 50 años,202510,1656,1404,252,0,351,307,0,44
+Baja California,subdel,Entre 50 y 55 años,202510,1168,1017,151,0,294,274,0,20
+Baja California,subdel,Entre 55 y 60 años,202510,529,460,69,0,130,121,0,9
+Baja California,subdel,Entre 60 y 65 años,202510,228,206,22,0,52,49,0,3
+Baja California,subdel,Entre 65 y 70 años,202510,73,70,3,0,19,18,0,1
+Baja California,subdel,Entre 70 y 75 años,202510,19,18,1,0,6,6,0,0
+Baja California Sur,subdel,75 años y más,202510,264,240,24,0,10,10,0,0
+Baja California Sur,subdel,Entre 15 y 20 años,202510,163,145,18,0,13,12,0,1
+Baja California Sur,subdel,Entre 20 y 25 años,202510,1251,1128,123,0,89,88,0,1
+Baja California Sur,subdel,Entre 25 y 30 años,202510,1198,1027,171,0,115,103,0,12
+Baja California Sur,subdel,Entre 30 y 35 años,202510,1051,861,190,0,126,114,0,12
+Baja California Sur,subdel,Entre 35 y 40 años,202510,796,648,148,0,118,103,0,15
+Baja California Sur,subdel,Entre 40 y 45 años,202510,562,457,105,0,66,57,0,9
+Baja California Sur,subdel,Entre 45 y 50 años,202510,385,307,78,0,61,55,0,6
+Baja California Sur,subdel,Entre 50 y 55 años,202510,207,178,29,0,32,29,0,3
+Baja California Sur,subdel,Entre 55 y 60 años,202510,108,97,11,0,17,14,0,3
+Baja California Sur,subdel,Entre 60 y 65 años,202510,59,52,7,0,10,10,0,0
+Baja California Sur,subdel,Entre 65 y 70 años,202510,17,17,0,0,2,2,0,0
+Baja California Sur,subdel,Entre 70 y 75 años,202510,1,1,0,0,0,0,0,0
+Campeche,subdel,75 años y más,202510,388,364,24,0,5,5,0,0
+Campeche,subdel,Entre 15 y 20 años,202510,130,120,10,0,0,0,0,0
+Campeche,subdel,Entre 20 y 25 años,202510,2008,1822,186,0,67,66,0,1
+Campeche,subdel,Entre 25 y 30 años,202510,2887,2563,324,0,130,117,0,13
+Campeche,subdel,Entre 30 y 35 años,202510,2844,2487,357,0,180,170,0,10
+Campeche,subdel,Entre 35 y 40 años,202510,2423,2102,321,0,211,195,0,16
+Campeche,subdel,Entre 40 y 45 años,202510,1590,1397,193,0,154,145,0,9
+Campeche,subdel,Entre 45 y 50 años,202510,965,854,111,0,100,94,0,6
+Campeche,subdel,Entre 50 y 55 años,202510,672,583,89,0,94,84,0,10
+Campeche,subdel,Entre 55 y 60 años,202510,398,348,50,0,63,58,0,5
+Campeche,subdel,Entre 60 y 65 años,202510,136,128,8,0,15,14,0,1
+Campeche,subdel,Entre 65 y 70 años,202510,47,46,1,0,6,6,0,0
+Campeche,subdel,Entre 70 y 75 años,202510,19,17,2,0,2,2,0,0
+Chiapas,subdel,75 años y más,202510,972,898,74,0,29,28,0,1
+Chiapas,subdel,Entre 15 y 20 años,202510,432,410,22,0,20,20,0,0
+Chiapas,subdel,Entre 20 y 25 años,202510,5337,4934,403,0,244,235,0,9
+Chiapas,subdel,Entre 25 y 30 años,202510,7056,6512,544,0,498,480,0,18
+Chiapas,subdel,Entre 30 y 35 años,202510,6006,5528,478,0,553,527,0,26
+Chiapas,subdel,Entre 35 y 40 años,202510,4466,4113,353,0,521,501,0,20
+Chiapas,subdel,Entre 40 y 45 años,202510,2864,2638,226,0,363,352,0,11
+Chiapas,subdel,Entre 45 y 50 años,202510,1780,1647,133,0,280,271,0,9
+Chiapas,subdel,Entre 50 y 55 años,202510,1057,944,113,0,192,182,0,10
+Chiapas,subdel,Entre 55 y 60 años,202510,593,549,44,0,102,100,0,2
+Chiapas,subdel,Entre 60 y 65 años,202510,213,202,11,0,26,26,0,0
+Chiapas,subdel,Entre 65 y 70 años,202510,80,77,3,0,9,9,0,0
+Chiapas,subdel,Entre 70 y 75 años,202510,20,19,1,0,3,3,0,0
+Chihuahua,subdel,75 años y más,202510,1145,977,168,0,52,48,0,4
+Chihuahua,subdel,Entre 15 y 20 años,202510,1480,1320,160,0,65,63,0,2
+Chihuahua,subdel,Entre 20 y 25 años,202510,9108,7640,1468,0,492,473,0,19
+Chihuahua,subdel,Entre 25 y 30 años,202510,9570,7845,1725,0,786,720,0,66
+Chihuahua,subdel,Entre 30 y 35 años,202510,8935,7235,1700,0,982,880,0,102
+Chihuahua,subdel,Entre 35 y 40 años,202510,6311,5061,1250,0,801,729,0,72
+Chihuahua,subdel,Entre 40 y 45 años,202510,4341,3570,771,0,635,572,0,63
+Chihuahua,subdel,Entre 45 y 50 años,202510,3004,2454,550,0,498,447,0,51
+Chihuahua,subdel,Entre 50 y 55 años,202510,1986,1658,328,0,390,359,0,31
+Chihuahua,subdel,Entre 55 y 60 años,202510,1232,1085,147,0,241,234,0,7
+Chihuahua,subdel,Entre 60 y 65 años,202510,562,504,58,0,97,94,0,3
+Chihuahua,subdel,Entre 65 y 70 años,202510,204,200,4,0,46,46,0,0
+Chihuahua,subdel,Entre 70 y 75 años,202510,31,31,0,0,6,6,0,0
+Ciudad de México,subdel,75 años y más,202510,8145,7155,990,0,219,210,0,9
+Ciudad de México,subdel,Entre 15 y 20 años,202510,3179,2891,288,0,43,42,0,1
+Ciudad de México,subdel,Entre 20 y 25 años,202510,37644,33799,3844,1,1333,1277,0,56
+Ciudad de México,subdel,Entre 25 y 30 años,202510,46940,42164,4776,0,3027,2887,0,140
+Ciudad de México,subdel,Entre 30 y 35 años,202510,48052,43117,4935,0,4315,4124,0,191
+Ciudad de México,subdel,Entre 35 y 40 años,202510,43303,39212,4091,0,5146,4898,0,248
+Ciudad de México,subdel,Entre 40 y 45 años,202510,39078,35650,3428,0,5708,5461,0,247
+Ciudad de México,subdel,Entre 45 y 50 años,202510,29341,26585,2756,0,5225,5012,0,213
+Ciudad de México,subdel,Entre 50 y 55 años,202510,23141,21030,2111,0,4526,4344,0,182
+Ciudad de México,subdel,Entre 55 y 60 años,202510,13663,12578,1085,0,2967,2853,0,114
+Ciudad de México,subdel,Entre 60 y 65 años,202510,7109,6705,404,0,1383,1353,0,30
+Ciudad de México,subdel,Entre 65 y 70 años,202510,2635,2502,133,0,454,446,0,8
+Ciudad de México,subdel,Entre 70 y 75 años,202510,725,676,49,0,124,123,0,1
+Coahuila de Zaragoza,subdel,75 años y más,202510,655,584,71,0,32,31,0,1
+Coahuila de Zaragoza,subdel,Entre 15 y 20 años,202510,801,725,76,0,37,36,0,1
+Coahuila de Zaragoza,subdel,Entre 20 y 25 años,202510,5777,5207,570,0,354,339,0,15
+Coahuila de Zaragoza,subdel,Entre 25 y 30 años,202510,7192,6501,691,0,700,666,0,34
+Coahuila de Zaragoza,subdel,Entre 30 y 35 años,202510,7617,6752,865,0,894,852,0,42
+Coahuila de Zaragoza,subdel,Entre 35 y 40 años,202510,6063,5347,716,0,811,752,0,59
+Coahuila de Zaragoza,subdel,Entre 40 y 45 años,202510,4447,3938,509,0,663,618,0,45
+Coahuila de Zaragoza,subdel,Entre 45 y 50 años,202510,3043,2716,327,0,540,507,0,33
+Coahuila de Zaragoza,subdel,Entre 50 y 55 años,202510,1980,1781,199,0,379,361,0,18
+Coahuila de Zaragoza,subdel,Entre 55 y 60 años,202510,1100,1009,91,0,234,226,0,8
+Coahuila de Zaragoza,subdel,Entre 60 y 65 años,202510,594,554,40,0,136,132,0,4
+Coahuila de Zaragoza,subdel,Entre 65 y 70 años,202510,165,157,8,0,32,30,0,2
+Coahuila de Zaragoza,subdel,Entre 70 y 75 años,202510,44,44,0,0,12,12,0,0
+Colima,subdel,75 años y más,202510,335,298,37,0,8,8,0,0
+Colima,subdel,Entre 15 y 20 años,202510,271,243,28,0,6,6,0,0
+Colima,subdel,Entre 20 y 25 años,202510,1698,1534,164,0,45,42,0,3
+Colima,subdel,Entre 25 y 30 años,202510,1608,1417,191,0,90,82,0,8
+Colima,subdel,Entre 30 y 35 años,202510,1333,1146,187,0,91,84,0,7
+Colima,subdel,Entre 35 y 40 años,202510,1043,892,151,0,117,108,0,9
+Colima,subdel,Entre 40 y 45 años,202510,695,591,104,0,90,79,0,11
+Colima,subdel,Entre 45 y 50 años,202510,439,357,82,0,54,52,0,2
+Colima,subdel,Entre 50 y 55 años,202510,303,258,45,0,46,44,0,2
+Colima,subdel,Entre 55 y 60 años,202510,166,149,17,0,30,29,0,1
+Colima,subdel,Entre 60 y 65 años,202510,76,72,4,0,14,14,0,0
+Colima,subdel,Entre 65 y 70 años,202510,38,37,1,0,8,8,0,0
+Colima,subdel,Entre 70 y 75 años,202510,10,9,1,0,1,1,0,0
+Durango,subdel,75 años y más,202510,570,519,51,0,15,15,0,0
+Durango,subdel,Entre 15 y 20 años,202510,468,438,30,0,12,11,0,1
+Durango,subdel,Entre 20 y 25 años,202510,3390,3080,310,0,135,129,0,6
+Durango,subdel,Entre 25 y 30 años,202510,3547,3171,376,0,233,220,0,13
+Durango,subdel,Entre 30 y 35 años,202510,3372,2944,428,0,264,253,0,11
+Durango,subdel,Entre 35 y 40 años,202510,2339,2057,282,0,219,206,0,13
+Durango,subdel,Entre 40 y 45 años,202510,1692,1471,221,0,218,198,0,20
+Durango,subdel,Entre 45 y 50 años,202510,1138,1001,137,0,183,172,0,11
+Durango,subdel,Entre 50 y 55 años,202510,772,672,100,0,168,155,0,13
+Durango,subdel,Entre 55 y 60 años,202510,426,376,50,0,76,71,0,5
+Durango,subdel,Entre 60 y 65 años,202510,215,192,23,0,44,43,0,1
+Durango,subdel,Entre 65 y 70 años,202510,96,90,6,0,20,20,0,0
+Durango,subdel,Entre 70 y 75 años,202510,24,23,1,0,3,3,0,0
+Extranjero/Extranjera,subdel,75 años y más,202510,414,372,42,0,20,18,0,2
+Extranjero/Extranjera,subdel,Entre 15 y 20 años,202510,151,132,19,0,6,6,0,0
+Extranjero/Extranjera,subdel,Entre 20 y 25 años,202510,1175,1031,144,0,82,79,0,3
+Extranjero/Extranjera,subdel,Entre 25 y 30 años,202510,1445,1302,143,0,160,155,0,5
+Extranjero/Extranjera,subdel,Entre 30 y 35 años,202510,1661,1474,187,0,208,193,0,15
+Extranjero/Extranjera,subdel,Entre 35 y 40 años,202510,1438,1281,157,0,221,212,0,9
+Extranjero/Extranjera,subdel,Entre 40 y 45 años,202510,1029,916,113,0,188,174,0,14
+Extranjero/Extranjera,subdel,Entre 45 y 50 años,202510,800,712,88,0,165,158,0,7
+Extranjero/Extranjera,subdel,Entre 50 y 55 años,202510,534,450,84,0,117,109,0,8
+Extranjero/Extranjera,subdel,Entre 55 y 60 años,202510,356,313,43,0,83,79,0,4
+Extranjero/Extranjera,subdel,Entre 60 y 65 años,202510,181,159,22,0,39,39,0,0
+Extranjero/Extranjera,subdel,Entre 65 y 70 años,202510,89,85,4,0,18,18,0,0
+Extranjero/Extranjera,subdel,Entre 70 y 75 años,202510,27,27,0,0,5,5,0,0
+Guanajuato,subdel,75 años y más,202510,1520,1403,117,0,30,30,0,0
+Guanajuato,subdel,Entre 15 y 20 años,202510,1275,1183,92,0,23,22,0,1
+Guanajuato,subdel,Entre 20 y 25 años,202510,8880,8240,640,0,317,306,0,11
+Guanajuato,subdel,Entre 25 y 30 años,202510,9785,8981,804,0,524,503,0,21
+Guanajuato,subdel,Entre 30 y 35 años,202510,8631,7879,752,0,684,653,0,31
+Guanajuato,subdel,Entre 35 y 40 años,202510,6399,5821,578,0,620,586,0,34
+Guanajuato,subdel,Entre 40 y 45 años,202510,4810,4399,411,0,586,561,0,25
+Guanajuato,subdel,Entre 45 y 50 años,202510,3084,2801,283,0,486,463,0,23
+Guanajuato,subdel,Entre 50 y 55 años,202510,2210,2017,193,0,409,395,0,14
+Guanajuato,subdel,Entre 55 y 60 años,202510,1347,1280,67,0,279,269,0,10
+Guanajuato,subdel,Entre 60 y 65 años,202510,687,652,35,0,136,134,0,2
+Guanajuato,subdel,Entre 65 y 70 años,202510,263,253,10,0,46,46,0,0
+Guanajuato,subdel,Entre 70 y 75 años,202510,78,74,4,0,9,9,0,0
+Guerrero,subdel,75 años y más,202510,506,454,52,0,12,10,0,2
+Guerrero,subdel,Entre 15 y 20 años,202510,267,250,17,0,7,7,0,0
+Guerrero,subdel,Entre 20 y 25 años,202510,2882,2587,295,0,147,140,0,7
+Guerrero,subdel,Entre 25 y 30 años,202510,3726,3335,391,0,335,307,0,28
+Guerrero,subdel,Entre 30 y 35 años,202510,3251,2918,333,0,345,322,0,23
+Guerrero,subdel,Entre 35 y 40 años,202510,2538,2287,251,0,365,347,0,18
+Guerrero,subdel,Entre 40 y 45 años,202510,1732,1548,184,0,293,281,0,12
+Guerrero,subdel,Entre 45 y 50 años,202510,1238,1106,132,0,244,235,0,9
+Guerrero,subdel,Entre 50 y 55 años,202510,859,792,67,0,203,193,0,10
+Guerrero,subdel,Entre 55 y 60 años,202510,474,438,36,0,100,97,0,3
+Guerrero,subdel,Entre 60 y 65 años,202510,250,233,17,0,55,54,0,1
+Guerrero,subdel,Entre 65 y 70 años,202510,100,91,9,0,19,19,0,0
+Guerrero,subdel,Entre 70 y 75 años,202510,19,17,2,0,3,3,0,0
+Hidalgo,subdel,75 años y más,202510,303,270,33,0,10,10,0,0
+Hidalgo,subdel,Entre 15 y 20 años,202510,143,134,9,0,3,3,0,0
+Hidalgo,subdel,Entre 20 y 25 años,202510,1609,1466,143,0,91,86,0,5
+Hidalgo,subdel,Entre 25 y 30 años,202510,2060,1898,162,0,174,168,0,6
+Hidalgo,subdel,Entre 30 y 35 años,202510,2012,1810,202,0,239,226,0,13
+Hidalgo,subdel,Entre 35 y 40 años,202510,1381,1274,107,0,181,177,0,4
+Hidalgo,subdel,Entre 40 y 45 años,202510,1005,903,102,0,200,195,0,5
+Hidalgo,subdel,Entre 45 y 50 años,202510,735,676,59,0,136,132,0,4
+Hidalgo,subdel,Entre 50 y 55 años,202510,503,458,45,0,103,95,0,8
+Michoacán de Ocampo,subdel,Entre 40 y 45 años,202510,2421,2146,275,0,329,311,0,18
+Michoacán de Ocampo,subdel,Entre 45 y 50 años,202510,1687,1494,193,0,251,238,0,13
+Michoacán de Ocampo,subdel,Entre 50 y 55 años,202510,1157,1045,112,0,229,218,0,11
+Michoacán de Ocampo,subdel,Entre 55 y 60 años,202510,747,698,49,0,149,142,0,7
+Michoacán de Ocampo,subdel,Entre 60 y 65 años,202510,462,435,27,0,86,84,0,2
+Michoacán de Ocampo,subdel,Entre 65 y 70 años,202510,208,184,24,0,32,31,0,1
+Michoacán de Ocampo,subdel,Entre 70 y 75 años,202510,55,54,1,0,9,9,0,0
+Morelos,subdel,75 años y más,202510,900,806,94,0,16,15,0,1
+Morelos,subdel,Entre 15 y 20 años,202510,406,378,28,0,5,5,0,0
+Morelos,subdel,Entre 20 y 25 años,202510,3693,3353,340,0,95,94,0,1
+Morelos,subdel,Entre 25 y 30 años,202510,3842,3473,369,0,169,162,0,7
+Morelos,subdel,Entre 30 y 35 años,202510,3195,2860,335,0,194,184,0,10
+Morelos,subdel,Entre 35 y 40 años,202510,2182,1964,218,0,188,170,0,18
+Morelos,subdel,Entre 40 y 45 años,202510,1505,1374,131,0,131,123,0,8
+Morelos,subdel,Entre 45 y 50 años,202510,1051,951,100,0,118,110,0,8
+Morelos,subdel,Entre 50 y 55 años,202510,689,631,58,0,90,89,0,1
+Morelos,subdel,Entre 55 y 60 años,202510,355,327,28,0,46,45,0,1
+Morelos,subdel,Entre 60 y 65 años,202510,160,146,14,0,32,30,0,2
+Morelos,subdel,Entre 65 y 70 años,202510,42,41,1,0,3,3,0,0
+Morelos,subdel,Entre 70 y 75 años,202510,17,17,0,0,1,1,0,0
+México,subdel,75 años y más,202510,7528,6792,736,0,183,170,0,13
+México,subdel,Entre 15 y 20 años,202510,3163,2931,232,0,49,46,0,3
+México,subdel,Entre 20 y 25 años,202510,31642,28878,2764,0,1084,1034,0,50
+México,subdel,Entre 25 y 30 años,202510,33932,30972,2960,0,2070,1988,0,82
+México,subdel,Entre 30 y 35 años,202510,27685,25335,2350,0,2390,2286,0,104
+México,subdel,Entre 35 y 40 años,202510,17164,15735,1429,0,1967,1889,0,78
+México,subdel,Entre 40 y 45 años,202510,9084,8300,784,0,1187,1135,0,52
+México,subdel,Entre 45 y 50 años,202510,5473,5029,444,0,869,837,0,32
+México,subdel,Entre 50 y 55 años,202510,3012,2793,219,0,546,530,0,16
+México,subdel,Entre 55 y 60 años,202510,1535,1434,101,0,281,277,0,4
+México,subdel,Entre 60 y 65 años,202510,711,675,36,0,111,110,0,1
+México,subdel,Entre 65 y 70 años,202510,246,235,11,0,46,46,0,0
+México,subdel,Entre 70 y 75 años,202510,59,55,4,0,12,12,0,0
+Nayarit,subdel,75 años y más,202510,457,429,28,0,12,11,0,1
+Nayarit,subdel,Entre 15 y 20 años,202510,172,160,12,0,6,6,0,0
+Nayarit,subdel,Entre 20 y 25 años,202510,2116,1952,164,0,134,129,0,5
+Nayarit,subdel,Entre 25 y 30 años,202510,2564,2380,184,0,209,203,0,6
+Nayarit,subdel,Entre 30 y 35 años,202510,2514,2307,207,0,281,268,0,13
+Nayarit,subdel,Entre 35 y 40 años,202510,2193,1988,205,0,292,274,0,18
+Nayarit,subdel,Entre 40 y 45 años,202510,1706,1562,144,0,267,256,0,11
+Nayarit,subdel,Entre 45 y 50 años,202510,1216,1110,106,0,192,181,0,11
+Nayarit,subdel,Entre 50 y 55 años,202510,808,749,59,0,157,152,0,5
+Nayarit,subdel,Entre 55 y 60 años,202510,455,430,25,0,80,77,0,3
+Nayarit,subdel,Entre 60 y 65 años,202510,233,220,13,0,41,41,0,0
+Nayarit,subdel,Entre 65 y 70 años,202510,99,94,5,0,21,21,0,0
+Nayarit,subdel,Entre 70 y 75 años,202510,27,26,1,0,4,4,0,0
+Nuevo León,subdel,75 años y más,202510,1415,1221,194,0,72,69,0,3
+Nuevo León,subdel,Entre 15 y 20 años,202510,2399,2200,199,0,125,118,0,7
+Nuevo León,subdel,Entre 20 y 25 años,202510,13285,11872,1413,0,1148,1107,0,41
+Nuevo León,subdel,Entre 25 y 30 años,202510,15628,13741,1887,0,1915,1817,0,98
+Nuevo León,subdel,Entre 30 y 35 años,202510,15523,13621,1902,0,2432,2314,0,118
+Nuevo León,subdel,Entre 35 y 40 años,202510,12465,10963,1502,0,2327,2180,0,147
+Nuevo León,subdel,Entre 40 y 45 años,202510,9922,8713,1209,0,2206,2059,0,147
+Nuevo León,subdel,Entre 45 y 50 años,202510,6901,6134,767,0,1713,1617,0,96
+Nuevo León,subdel,Entre 50 y 55 años,202510,4457,3950,507,0,1296,1220,0,76
+Nuevo León,subdel,Entre 55 y 60 años,202510,2586,2367,219,0,788,749,0,39
+Nuevo León,subdel,Entre 60 y 65 años,202510,1249,1163,86,0,361,350,0,11
+Nuevo León,subdel,Entre 65 y 70 años,202510,406,380,26,0,108,107,0,1
+Nuevo León,subdel,Entre 70 y 75 años,202510,92,83,9,0,21,20,0,1
+Oaxaca,subdel,75 años y más,202510,606,546,60,0,21,19,0,2
+Oaxaca,subdel,Entre 15 y 20 años,202510,263,240,23,0,4,3,0,1
+Oaxaca,subdel,Entre 20 y 25 años,202510,3294,3001,293,0,155,151,0,4
+Oaxaca,subdel,Entre 25 y 30 años,202510,4181,3807,374,0,364,349,0,15
+Oaxaca,subdel,Entre 30 y 35 años,202510,3649,3306,343,0,384,351,0,33
+Oaxaca,subdel,Entre 35 y 40 años,202510,2650,2367,283,0,318,296,0,22
+Oaxaca,subdel,Entre 40 y 45 años,202510,1916,1770,146,0,302,287,0,15
+Oaxaca,subdel,Entre 45 y 50 años,202510,1371,1271,100,0,232,225,0,7
+Oaxaca,subdel,Entre 50 y 55 años,202510,837,762,75,0,173,162,0,11
+Oaxaca,subdel,Entre 55 y 60 años,202510,422,396,26,0,86,80,0,6
+Oaxaca,subdel,Entre 60 y 65 años,202510,268,244,24,0,60,59,0,1
+Oaxaca,subdel,Entre 65 y 70 años,202510,89,81,8,0,16,14,0,2
+Oaxaca,subdel,Entre 70 y 75 años,202510,31,28,3,0,1,1,0,0
+Puebla,subdel,75 años y más,202510,1557,1447,110,0,37,35,0,2
+Puebla,subdel,Entre 15 y 20 años,202510,597,560,37,0,16,16,0,0
+Puebla,subdel,Entre 20 y 25 años,202510,7591,7041,550,0,336,326,0,10
+Puebla,subdel,Entre 25 y 30 años,202510,9395,8691,704,0,710,693,0,17
+Puebla,subdel,Entre 30 y 35 años,202510,8664,7979,685,0,836,806,0,30
+Puebla,subdel,Entre 35 y 40 años,202510,6656,6097,559,0,818,778,0,40
+Puebla,subdel,Entre 40 y 45 años,202510,5030,4632,398,0,748,722,0,26
+Puebla,subdel,Entre 45 y 50 años,202510,3582,3300,282,0,587,570,0,17
+Puebla,subdel,Entre 50 y 55 años,202510,2439,2243,196,0,499,487,0,12
+Puebla,subdel,Entre 55 y 60 años,202510,1356,1275,81,0,292,287,0,5
+Puebla,subdel,Entre 60 y 65 años,202510,681,653,28,0,111,109,0,2
+Puebla,subdel,Entre 65 y 70 años,202510,237,221,16,0,32,31,0,1
+Puebla,subdel,Entre 70 y 75 años,202510,73,71,2,0,10,10,0,0
+Querétaro,subdel,75 años y más,202510,483,439,44,0,26,24,0,2
+Querétaro,subdel,Entre 15 y 20 años,202510,426,397,29,0,10,10,0,0
+Querétaro,subdel,Entre 20 y 25 años,202510,3183,2957,226,0,144,142,0,2
+Querétaro,subdel,Entre 25 y 30 años,202510,3760,3395,365,0,323,302,0,21
+Querétaro,subdel,Entre 30 y 35 años,202510,3356,3056,300,0,369,349,0,20
+Querétaro,subdel,Entre 35 y 40 años,202510,2489,2258,231,0,323,306,0,17
+Querétaro,subdel,Entre 40 y 45 años,202510,1940,1753,187,0,274,259,0,15
+Querétaro,subdel,Entre 45 y 50 años,202510,1208,1114,94,0,243,230,0,13
+Querétaro,subdel,Entre 50 y 55 años,202510,804,746,58,0,166,157,0,9
+Querétaro,subdel,Entre 55 y 60 años,202510,418,397,21,0,79,78,0,1
+Querétaro,subdel,Entre 60 y 65 años,202510,179,170,9,0,42,40,0,2
+Querétaro,subdel,Entre 65 y 70 años,202510,70,69,1,0,11,11,0,0
+Querétaro,subdel,Entre 70 y 75 años,202510,15,15,0,0,3,3,0,0
+Quintana Roo,subdel,75 años y más,202510,877,790,87,0,21,21,0,0
+Quintana Roo,subdel,Entre 15 y 20 años,202510,585,547,38,0,10,10,0,0
+Quintana Roo,subdel,Entre 20 y 25 años,202510,3917,3490,427,0,103,97,0,6
+Quintana Roo,subdel,Entre 25 y 30 años,202510,3836,3364,472,0,182,170,0,12
+Quintana Roo,subdel,Entre 30 y 35 años,202510,3051,2631,420,0,183,176,0,7
+Quintana Roo,subdel,Entre 35 y 40 años,202510,1650,1432,218,0,152,136,0,16
+Quintana Roo,subdel,Entre 40 y 45 años,202510,893,776,117,0,95,92,0,3
+Quintana Roo,subdel,Entre 45 y 50 años,202510,388,349,39,0,49,45,0,4
+Quintana Roo,subdel,Entre 50 y 55 años,202510,141,122,19,0,15,15,0,0
+Quintana Roo,subdel,Entre 55 y 60 años,202510,46,39,7,0,9,9,0,0
+Quintana Roo,subdel,Entre 60 y 65 años,202510,34,30,4,0,6,5,0,1
+Quintana Roo,subdel,Entre 65 y 70 años,202510,6,6,0,0,1,1,0,0
+Quintana Roo,subdel,Entre 70 y 75 años,202510,3,1,2,0,0,0,0,0
+San Luis Potosí,subdel,75 años y más,202510,727,666,61,0,21,21,0,0
+San Luis Potosí,subdel,Entre 15 y 20 años,202510,699,629,70,0,25,24,0,1
+San Luis Potosí,subdel,Entre 20 y 25 años,202510,4786,4339,447,0,244,238,0,6
+San Luis Potosí,subdel,Entre 25 y 30 años,202510,5727,5131,596,0,418,398,0,20
+San Luis Potosí,subdel,Entre 30 y 35 años,202510,5701,5082,619,0,569,534,0,35
+San Luis Potosí,subdel,Entre 35 y 40 años,202510,4062,3584,478,0,492,455,0,37
+San Luis Potosí,subdel,Entre 40 y 45 años,202510,2682,2392,290,0,413,387,0,26
+San Luis Potosí,subdel,Entre 45 y 50 años,202510,1828,1587,241,0,314,294,0,20
+San Luis Potosí,subdel,Entre 50 y 55 años,202510,1241,1102,139,0,254,238,0,16
+San Luis Potosí,subdel,Entre 55 y 60 años,202510,741,675,66,0,169,162,0,7
+San Luis Potosí,subdel,Entre 60 y 65 años,202510,427,402,25,0,82,81,0,1
+San Luis Potosí,subdel,Entre 65 y 70 años,202510,141,134,7,0,33,31,0,2
+San Luis Potosí,subdel,Entre 70 y 75 años,202510,46,43,3,0,7,7,0,0
+Sinaloa,subdel,75 años y más,202510,1220,1143,77,0,32,32,0,0
+Sinaloa,subdel,Entre 15 y 20 años,202510,930,868,62,0,24,23,0,1
+Sinaloa,subdel,Entre 20 y 25 años,202510,7238,6673,565,0,433,421,0,12
+Sinaloa,subdel,Entre 25 y 30 años,202510,8492,7758,734,0,729,688,0,41
+Sinaloa,subdel,Entre 30 y 35 años,202510,7974,7082,892,0,785,734,0,51
+Sinaloa,subdel,Entre 35 y 40 años,202510,6202,5474,728,0,804,746,0,58
+Sinaloa,subdel,Entre 40 y 45 años,202510,4664,4095,569,0,674,624,0,50
+Sinaloa,subdel,Entre 45 y 50 años,202510,3480,3060,420,0,579,547,0,32
+Sinaloa,subdel,Entre 50 y 55 años,202510,2202,1924,278,0,417,381,0,36
+Sinaloa,subdel,Entre 55 y 60 años,202510,1292,1170,122,0,269,247,0,22
+Sinaloa,subdel,Entre 60 y 65 años,202510,602,557,45,0,111,106,0,5
+Sinaloa,subdel,Entre 65 y 70 años,202510,224,205,19,0,31,31,0,0
+Sinaloa,subdel,Entre 70 y 75 años,202510,53,51,2,0,12,12,0,0
+Sonora,subdel,75 años y más,202510,759,685,74,0,29,26,0,3
+Sonora,subdel,Entre 15 y 20 años,202510,607,571,36,0,21,20,0,1
+Sonora,subdel,Entre 20 y 25 años,202510,5204,4727,477,0,348,328,0,20
+Sonora,subdel,Entre 25 y 30 años,202510,6307,5541,766,0,637,591,0,46
+Sonora,subdel,Entre 30 y 35 años,202510,6156,5309,847,0,780,723,0,57
+Sonora,subdel,Entre 35 y 40 años,202510,4943,4181,762,0,678,604,0,74
+Sonora,subdel,Entre 40 y 45 años,202510,3863,3296,567,0,633,558,0,75
+Sonora,subdel,Entre 45 y 50 años,202510,2865,2417,448,0,532,469,0,63
+Sonora,subdel,Entre 50 y 55 años,202510,1864,1586,278,0,437,400,0,37
+Sonora,subdel,Entre 55 y 60 años,202510,1091,949,142,0,245,221,0,24
+Sonora,subdel,Entre 60 y 65 años,202510,587,539,48,0,119,116,0,3
+Sonora,subdel,Entre 65 y 70 años,202510,208,194,14,0,41,38,0,3
+Sonora,subdel,Entre 70 y 75 años,202510,63,61,2,0,11,11,0,0
+Tabasco,subdel,75 años y más,202510,648,592,56,0,9,9,0,0
+Tabasco,subdel,Entre 15 y 20 años,202510,385,359,26,0,8,8,0,0
+Tabasco,subdel,Entre 20 y 25 años,202510,4060,3705,355,0,169,163,0,6
+Tabasco,subdel,Entre 25 y 30 años,202510,5367,4880,487,0,357,340,0,17
+Tabasco,subdel,Entre 30 y 35 años,202510,4977,4474,503,0,393,373,0,20
+Tabasco,subdel,Entre 35 y 40 años,202510,3912,3541,371,0,422,403,0,19
+Tabasco,subdel,Entre 40 y 45 años,202510,2667,2426,241,0,308,298,0,10
+Tabasco,subdel,Entre 45 y 50 años,202510,1704,1529,175,0,218,212,0,6
+Tabasco,subdel,Entre 50 y 55 años,202510,957,854,103,0,132,123,0,9
+Tabasco,subdel,Entre 55 y 60 años,202510,460,423,37,0,68,61,0,7
+Tabasco,subdel,Entre 60 y 65 años,202510,159,150,9,0,30,30,0,0
+Tabasco,subdel,Entre 65 y 70 años,202510,55,52,3,0,11,11,0,0
+Tabasco,subdel,Entre 70 y 75 años,202510,10,8,2,0,1,0,0,1
+Tamaulipas,subdel,75 años y más,202510,1061,927,134,0,46,41,0,5
+Tamaulipas,subdel,Entre 15 y 20 años,202510,695,648,47,0,33,32,0,1
+Tamaulipas,subdel,Entre 20 y 25 años,202510,6473,5745,728,0,447,419,0,28
+Tamaulipas,subdel,Entre 25 y 30 años,202510,7468,6612,856,0,690,653,0,37
+Tamaulipas,subdel,Entre 30 y 35 años,202510,6909,6025,884,0,809,755,0,54
+Tamaulipas,subdel,Entre 35 y 40 años,202510,5235,4569,666,0,652,600,0,52
+Tamaulipas,subdel,Entre 40 y 45 años,202510,3797,3328,469,0,515,486,0,29
+Tamaulipas,subdel,Entre 45 y 50 años,202510,2525,2211,314,0,437,409,0,28
+Tamaulipas,subdel,Entre 50 y 55 años,202510,1701,1495,206,0,300,276,0,24
+Tamaulipas,subdel,Entre 55 y 60 años,202510,1039,915,124,0,201,178,0,23
+Tamaulipas,subdel,Entre 60 y 65 años,202510,545,507,38,0,94,92,0,2
+Tamaulipas,subdel,Entre 65 y 70 años,202510,173,167,6,0,23,23,0,0
+Tamaulipas,subdel,Entre 70 y 75 años,202510,55,53,2,0,12,12,0,0
+Tlaxcala,subdel,75 años y más,202510,248,235,13,0,4,4,0,0
+Tlaxcala,subdel,Entre 15 y 20 años,202510,86,86,0,0,2,2,0,0
+Tlaxcala,subdel,Entre 20 y 25 años,202510,1288,1231,57,0,33,31,0,2
+Tlaxcala,subdel,Entre 25 y 30 años,202510,1610,1521,89,0,78,74,0,4
+Tlaxcala,subdel,Entre 30 y 35 años,202510,1402,1320,82,0,85,84,0,1
+Tlaxcala,subdel,Entre 35 y 40 años,202510,1086,1016,70,0,93,90,0,3
+Tlaxcala,subdel,Entre 40 y 45 años,202510,780,742,38,0,88,87,0,1
+Tlaxcala,subdel,Entre 45 y 50 años,202510,544,507,37,0,75,70,0,5
+Tlaxcala,subdel,Entre 50 y 55 años,202510,354,338,16,0,60,60,0,0
+Tlaxcala,subdel,Entre 55 y 60 años,202510,171,164,7,0,23,23,0,0
+Tlaxcala,subdel,Entre 60 y 65 años,202510,127,122,5,0,22,22,0,0
+Tlaxcala,subdel,Entre 65 y 70 años,202510,47,44,3,0,11,10,0,1
+Tlaxcala,subdel,Entre 70 y 75 años,202510,12,11,1,0,3,3,0,0
+Veracruz,subdel,75 años y más,202510,1276,1154,122,0,33,33,0,0
+Veracruz,subdel,Entre 15 y 20 años,202510,881,805,76,0,32,31,0,1
+Veracruz,subdel,Entre 20 y 25 años,202510,9527,8687,840,0,516,498,0,18
+Veracruz,subdel,Entre 25 y 30 años,202510,13609,12274,1335,0,1104,1052,0,52
+Veracruz,subdel,Entre 30 y 35 años,202510,14125,12647,1478,0,1464,1382,0,82
+Veracruz,subdel,Entre 35 y 40 años,202510,11178,10060,1118,0,1349,1277,0,72
+Veracruz,subdel,Entre 40 y 45 años,202510,8237,7440,797,0,1153,1106,0,47
+Veracruz,subdel,Entre 45 y 50 años,202510,5590,5094,496,0,900,859,0,41
+Veracruz,subdel,Entre 50 y 55 años,202510,3647,3310,337,0,627,602,0,25
+Veracruz,subdel,Entre 55 y 60 años,202510,1964,1810,154,0,384,365,0,19
+Veracruz,subdel,Entre 60 y 65 años,202510,956,880,76,0,155,151,0,4
+Veracruz,subdel,Entre 65 y 70 años,202510,319,300,19,0,46,45,0,1
+Veracruz,subdel,Entre 70 y 75 años,202510,95,91,4,0,10,10,0,0
+Yucatán,subdel,75 años y más,202510,774,698,76,0,12,11,0,1
+Yucatán,subdel,Entre 15 y 20 años,202510,369,340,29,0,16,16,0,0
+Yucatán,subdel,Entre 20 y 25 años,202510,4907,4489,418,0,229,215,0,14
+Yucatán,subdel,Entre 25 y 30 años,202510,6640,6009,631,0,457,429,0,28
+Yucatán,subdel,Entre 30 y 35 años,202510,7061,6301,760,0,605,567,0,38
+Yucatán,subdel,Entre 35 y 40 años,202510,6114,5456,658,0,671,630,0,41
+Yucatán,subdel,Entre 40 y 45 años,202510,4628,4145,483,0,587,545,0,42
+Yucatán,subdel,Entre 45 y 50 años,202510,3176,2885,291,0,466,434,0,32
+Yucatán,subdel,Entre 50 y 55 años,202510,2251,2031,220,0,384,362,0,22
+Yucatán,subdel,Entre 55 y 60 años,202510,1240,1122,118,0,265,246,0,19
+Yucatán,subdel,Entre 60 y 65 años,202510,622,571,51,0,90,88,0,2
+Yucatán,subdel,Entre 65 y 70 años,202510,186,179,7,0,39,39,0,0
+Yucatán,subdel,Entre 70 y 75 años,202510,61,57,4,0,6,6,0,0
+Zacatecas,subdel,75 años y más,202510,293,280,13,0,6,6,0,0
+Zacatecas,subdel,Entre 15 y 20 años,202510,181,176,5,0,2,2,0,0
+Zacatecas,subdel,Entre 20 y 25 años,202510,1484,1385,99,0,53,51,0,2
+Zacatecas,subdel,Entre 25 y 30 años,202510,1726,1598,128,0,97,91,0,6
+Zacatecas,subdel,Entre 30 y 35 años,202510,1402,1245,157,0,148,137,0,11
+Zacatecas,subdel,Entre 35 y 40 años,202510,1262,1124,138,0,157,146,0,11
+Zacatecas,subdel,Entre 40 y 45 años,202510,916,826,90,0,106,103,0,3
+Zacatecas,subdel,Entre 45 y 50 años,202510,706,645,61,0,120,114,0,6
+Zacatecas,subdel,Entre 50 y 55 años,202510,552,499,53,0,102,98,0,4
+Zacatecas,subdel,Entre 55 y 60 años,202510,385,357,28,0,89,88,0,1
+Zacatecas,subdel,Entre 60 y 65 años,202510,247,236,11,0,56,55,0,1
+Zacatecas,subdel,Entre 65 y 70 años,202510,91,84,7,0,18,18,0,0
+Zacatecas,subdel,Entre 70 y 75 años,202510,28,24,4,0,3,3,0,0
+Jalisco,subdel,75 años y más,202510,3618,3286,332,0,144,140,0,4
+Michoacán de Ocampo,subdel,75 años y más,202510,822,776,46,0,11,11,0,0
+Jalisco,subdel,Entre 15 y 20 años,202510,2601,2402,199,0,83,82,0,1
+Michoacán de Ocampo,subdel,Entre 15 y 20 años,202510,378,358,20,0,6,6,0,0
+Jalisco,subdel,Entre 20 y 25 años,202510,18898,17215,1683,0,1094,1059,0,35
+Michoacán de Ocampo,subdel,Entre 20 y 25 años,202510,3805,3539,266,0,167,163,0,4
+Jalisco,subdel,Entre 25 y 30 años,202510,20296,18432,1864,0,1744,1671,0,73
+Michoacán de Ocampo,subdel,Entre 25 y 30 años,202510,4653,4303,350,0,278,264,0,14
+Jalisco,subdel,Entre 30 y 35 años,202510,18320,16455,1865,0,2003,1872,0,131
+Michoacán de Ocampo,subdel,Entre 30 y 35 años,202510,4557,4141,416,0,372,352,0,20
+Jalisco,subdel,Entre 35 y 40 años,202510,15189,13545,1644,0,2013,1892,0,121
+Michoacán de Ocampo,subdel,Entre 35 y 40 años,202510,3471,3120,351,0,401,385,0,16
+Jalisco,subdel,Entre 40 y 45 años,202510,11471,10274,1197,0,1773,1674,0,99
+Jalisco,subdel,Entre 45 y 50 años,202510,7995,7094,901,0,1417,1333,0,84
+Jalisco,subdel,Entre 50 y 55 años,202510,5705,5090,615,0,1080,1023,0,57
+Hidalgo,subdel,Entre 55 y 60 años,202510,313,293,20,0,74,74,0,0
+Jalisco,subdel,Entre 55 y 60 años,202510,3056,2790,266,0,676,642,0,34
+Hidalgo,subdel,Entre 60 y 65 años,202510,187,178,9,0,40,38,0,2
+Jalisco,subdel,Entre 60 y 65 años,202510,1472,1382,90,0,296,289,0,7
+Hidalgo,subdel,Entre 65 y 70 años,202510,89,83,6,0,14,14,0,0
+Jalisco,subdel,Entre 65 y 70 años,202510,520,483,37,0,64,64,0,0
+Hidalgo,subdel,Entre 70 y 75 años,202510,29,24,5,0,6,6,0,0
+Jalisco,subdel,Entre 70 y 75 años,202510,139,124,15,0,18,18,0,0
