@@ -1,5 +1,9 @@
-dash
-plotly
-pandas
-numpy
+dash==2.14.2
+dash-core-components==2.0.0
+dash-html-components==2.0.0
+dash-table==5.0.0
+plotly==5.18.0
+pandas==2.1.4
 gunicorn
+
+
