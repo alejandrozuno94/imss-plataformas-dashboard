@@ -781,6 +781,6 @@ def copy_to_clipboard(clickData):
 if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
-    # Cambiamos a 127.0.0.1 para asegurar compatibilidad local en Windows
 
-    app.run(host="127.0.0.1", port=port, debug=True)
+    app.run(host="0.0.0.0", port=port)
+
