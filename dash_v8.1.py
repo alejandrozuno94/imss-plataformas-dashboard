@@ -1,11 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Dashboard IMSS – Plataformas Digitales (Versión Final Estable)
-Correcciones:
-- Click-to-Copy robusto (no falla con texto o gráficas de pastel).
-- IDs únicos para todas las gráficas (incluyendo sectores por mes).
-- Host local seguro (127.0.0.1).
-- Terminología 'Afiliaciones' y diseño institucional limpio.
+Dashboard IMSS – Plataformas Digitales (Versión Final)
 """
 
 import json
@@ -787,4 +782,5 @@ if __name__ == "__main__":
     import os
     port = int(os.environ.get("PORT", 10000))
     # Cambiamos a 127.0.0.1 para asegurar compatibilidad local en Windows
+
     app.run(host="127.0.0.1", port=port, debug=True)
